@@ -1,0 +1,2 @@
+symbol,search_date,model_name,model_type,persona_id,agent_index,error_type,error_message,timestamp
+BKNG,2025-04-08,gpt-5-nano,crowd_7,P27,7,PredictionError,Crowd agent prediction returned None,2025-10-13 19:39:53

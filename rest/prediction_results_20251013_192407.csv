@@ -1,0 +1,946 @@
+symbol,search_date,prediction_date,model_type,model_name,decision,confidence,reason
+ADBE,2024-03-14,2024-03-15,expert,gpt-5,down,88,Shares fell ~10% on softer Q2 revenue guidance; post-earnings selloffs typically persist next session.
+ADBE,2024-03-14,2024-03-17,expert,gpt-5,down,70,Guidance miss and growth deceleration outweigh Q1 beat; sharp gap unlikely to be filled quickly.
+ADBE,2024-03-14,2024-03-21,expert,gpt-5,down,60,Slower top-line outlook (~9% growth) keeps pressure despite buyback support; recovery likely incomplete within a week.
+ADBE,2024-03-14,2024-03-29,expert,gpt-5,down,58,"AI/product updates may help sentiment, but guidance reset and recent volatility suggest price remains below pre-earnings levels."
+ADBE,2024-03-14,2024-04-13,expert,gpt-5,down,55,Multiple compression from softer growth outlook may cap rebound; buyback provides a floor but trend bias remains negative over a month.
+ADBE,2024-03-14,2024-03-15,crowd_6,gpt-5-nano,down,75,Near-term guidance disappointment (Q2 revenue below consensus) and negative headline pressure.
+ADBE,2024-03-14,2024-03-17,crowd_6,gpt-5-nano,down,65,"Continued concern over soft guidance outweighs earnings beat; however, some stabilization risk exists."
+ADBE,2024-03-14,2024-03-21,crowd_6,gpt-5-nano,up,60,Positive catalysts (buyback authorization) and AI roadmap may begin to lift sentiment and trigger a rebound.
+ADBE,2024-03-14,2024-03-29,crowd_6,gpt-5-nano,up,65,Capital return strategy plus ongoing AI initiatives could drive mid-term upside as concerns fade.
+ADBE,2024-03-14,2024-04-13,crowd_6,gpt-5-nano,up,70,Sustained buyback and potential monetization of AI offerings support longer-term gains despite initial volatility.
+ADBE,2024-03-14,2024-03-15,crowd_9,gpt-5-nano,down,65,Soft second-quarter guidance despite Q1 beat; negative near-term reaction from news of downbeat revenue forecast
+ADBE,2024-03-14,2024-03-17,crowd_9,gpt-5-nano,down,60,Guidance still softer than expectations and ongoing press coverage suggesting near-term headwinds
+ADBE,2024-03-14,2024-03-21,crowd_9,gpt-5-nano,up,60,Asset likely supported by a $25B buyback and AI roadmap; potential rebound as investors digest long-term catalysts
+ADBE,2024-03-14,2024-03-29,crowd_9,gpt-5-nano,up,65,"Buyback and AI-driven product enhancements may increasingly show through, supporting upside momentum"
+ADBE,2024-03-14,2024-04-13,crowd_9,gpt-5-nano,up,70,Longer horizon tailwinds from capital return and potential growth in Digital Media/AI offerings align to support higher prices
+ADBE,2024-03-14,2024-03-15,crowd_1,gpt-5-nano,down,70,Negative reaction to downbeat Q2 guidance despite Q1 beat; extended-trading drop; buyback may cushion.
+ADBE,2024-03-14,2024-03-17,crowd_1,gpt-5-nano,down,60,Continued near-term softness from softer revenue guidance; some optimism from buyback but not enough to reverse.
+ADBE,2024-03-14,2024-03-21,crowd_1,gpt-5-nano,up,55,Buyback authorization and AI roadmap could begin to support price; longer-term improvements expected.
+ADBE,2024-03-14,2024-03-29,crowd_1,gpt-5-nano,up,60,Sustained buyback and potential acceleration from AI features may lift sentiment.
+ADBE,2024-03-14,2024-04-13,crowd_1,gpt-5-nano,up,65,Share repurchase and improving growth trajectory could drive a constructive trend.
+ADBE,2024-03-14,2024-03-15,crowd_4,gpt-5-nano,down,75,"Soft Q2 revenue guidance despite Q1 beat; headlines emphasize downbeat forecast, supporting near-term pressure."
+ADBE,2024-03-14,2024-03-17,crowd_4,gpt-5-nano,down,60,"Initial reaction may persist as investors digest the cautious outlook, even with buyback news."
+ADBE,2024-03-14,2024-03-21,crowd_4,gpt-5-nano,down,40,Market may remain cautious for a week; some stabilization possible but clear upside catalysts are not yet evident.
+ADBE,2024-03-14,2024-03-29,crowd_4,gpt-5-nano,up,60,Share buyback and potential AI-driven monetization could begin to re-rate the stock despite earlier softness.
+ADBE,2024-03-14,2024-04-13,crowd_4,gpt-5-nano,up,65,Sustained capital return and longer-term AI roadmap may support a positive re-rating as earnings visibility improves.
+ADBE,2024-03-14,2024-03-15,crowd_5,gpt-5-nano,down,75,Immediate negative reaction to soft Q2 guidance despite Q1 beat.
+ADBE,2024-03-14,2024-03-17,crowd_5,gpt-5-nano,down,60,Near-term weakness persists as investors digest lower revenue forecast.
+ADBE,2024-03-14,2024-03-21,crowd_5,gpt-5-nano,up,60,Share buyback and AI roadmap may start to support sentiment beyond near-term weakness.
+ADBE,2024-03-14,2024-03-29,crowd_5,gpt-5-nano,up,70,AI-enabled products and strong cash returns become more evident; potential recovery.
+ADBE,2024-03-14,2024-04-13,crowd_5,gpt-5-nano,up,75,"Longer-term AI momentum, recurring revenue, and capital return likely drive sustained upside."
+ADBE,2024-03-14,2024-03-15,crowd_8,gpt-5-nano,down,70,"Q2 revenue guidance is weaker than expected despite Q1 beat; near-term pressure from soft outlook, though a $25B buyback may cushion some downside."
+ADBE,2024-03-14,2024-03-17,crowd_8,gpt-5-nano,down,60,"Market continues to digest the weak guidance; buyback news could provide limited support, but the tone remains cautious."
+ADBE,2024-03-14,2024-03-21,crowd_8,gpt-5-nano,up,55,Buyback authorization and potential AI-driven product momentum may spark a relief rally after an initial drop.
+ADBE,2024-03-14,2024-03-29,crowd_8,gpt-5-nano,up,60,"Capital returns combined with any signs of operating momentum could lift sentiment further, offsetting the short-term negatives."
+ADBE,2024-03-14,2024-04-13,crowd_8,gpt-5-nano,up,65,"Longer-term upside supported by buybacks and AI adoption thrust, assuming macro conditions stabilize and profitability remains solid."
+ADBE,2024-03-14,2024-03-15,crowd_10,gpt-5-nano,down,75,Near-term reaction expected to be negative due to downbeat Q2 revenue guidance despite EPS beat; extended trading drop observed.
+ADBE,2024-03-14,2024-03-17,crowd_10,gpt-5-nano,down,65,Continued skepticism from modest guidance; buyback and AI initiatives may provide some support but unlikely to reverse sentiment immediately.
+ADBE,2024-03-14,2024-03-21,crowd_10,gpt-5-nano,down,50,"Short-term pressure may persist as investors digest the guidance, though stabilization could begin if buyback signals value."
+ADBE,2024-03-14,2024-03-29,crowd_10,gpt-5-nano,up,45,Potential improvement as share repurchase and AI-driven product roadmap could start to lift sentiment and offer a floor.
+ADBE,2024-03-14,2024-04-13,crowd_10,gpt-5-nano,up,60,"Longer-term catalysts (large buyback, AI-enabled initiatives) may drive a recovery as concerns ease and capital returns attract buyers."
+ADBE,2024-03-14,2024-03-15,crowd_7,gpt-5-nano,down,85,Post-earnings soft Q2 revenue guidance and negative headlines; immediate reaction points to near-term downside.
+ADBE,2024-03-14,2024-03-17,crowd_7,gpt-5-nano,down,75,Overhang from softer guidance persists; limited fresh catalysts despite buyback/AI buzz.
+ADBE,2024-03-14,2024-03-21,crowd_7,gpt-5-nano,down,65,Short-term pressure remains; buyback/AI initiatives exist but have not reversed the downdraft yet.
+ADBE,2024-03-14,2024-03-29,crowd_7,gpt-5-nano,down,55,"Longer horizon lacks a strong positive catalyst; stabilization possible, but downside risk still present from guidance."
+ADBE,2024-03-14,2024-04-13,crowd_7,gpt-5-nano,down,40,"Potential future positives (buyback, AI roadmap) exist, but data today suggests a negative bias over the next month."
+ADBE,2024-03-14,2024-03-15,crowd_3,gpt-5-nano,down,75,Soft Q2 revenue guidance despite Q1 beat; negative headlines and expected near-term selling pressure.
+ADBE,2024-03-14,2024-03-17,crowd_3,gpt-5-nano,down,60,"Continued pressure from guidance miss, though buyback and AI initiatives may offer some offset."
+ADBE,2024-03-14,2024-03-21,crowd_3,gpt-5-nano,up,40,Possible short-term rebound as investors digest results and weigh long-term catalysts like buyback and AI roadmap.
+ADBE,2024-03-14,2024-03-29,crowd_3,gpt-5-nano,up,55,Potential stabilization with improved sentiment from capital return plans and progress on AI features.
+ADBE,2024-03-14,2024-04-13,crowd_3,gpt-5-nano,up,60,Valuation support from a large buyback and ongoing product/AI initiatives could drive a longer-term recovery.
+ADBE,2024-03-14,2024-03-15,crowd_2,gpt-5-nano,down,85,Soft Q2 revenue guidance despite Q1 beat; immediate negative reaction (≈10% drop) cited in headlines.
+ADBE,2024-03-14,2024-03-17,crowd_2,gpt-5-nano,down,70,Ongoing impact of weaker guidance; limited near-term catalysts to reverse momentum.
+ADBE,2024-03-14,2024-03-21,crowd_2,gpt-5-nano,down,60,Short-term pressure may persist even with buyback; negative sentiment may moderate but not reverse quickly.
+ADBE,2024-03-14,2024-03-29,crowd_2,gpt-5-nano,up,55,"Share repurchase and AI roadmap could gradually support the stock, offsetting some downside risk."
+ADBE,2024-03-14,2024-04-13,crowd_2,gpt-5-nano,up,60,"Longer-term catalysts (buyback, AI integration) may lift sentiment and provide upside despite near-term softness."
+ADBE,2024-03-14,2024-03-15,crowd_11,gpt-5-nano,down,75,Negative immediate reaction to softer Q2 revenue guidance despite Q1 beat; extended trading drop suggests near-term pressure.
+ADBE,2024-03-14,2024-03-17,crowd_11,gpt-5-nano,down,65,"Short-term sentiment remains cautious amid guidance disappointment, though buyback and AI initiatives provide some support."
+ADBE,2024-03-14,2024-03-21,crowd_11,gpt-5-nano,down,60,Downside may persist into the next week as investors digest the guidance versus strong results; offsetting catalysts exist but not yet fully priced in.
+ADBE,2024-03-14,2024-03-29,crowd_11,gpt-5-nano,up,60,Capital return via a $25B buyback and ongoing AI-driven product momentum could begin to turn sentiment positive and support a rebound.
+ADBE,2024-03-14,2024-04-13,crowd_11,gpt-5-nano,up,75,"Sustained buyback, AI roadmap progress (Firefly, Acrobat assistant), and potential multiple expansion as fundamentals stabilize may drive a broader recovery."
+ADBE,2024-03-14,2024-03-15,crowd_12,gpt-5-nano,down,70,Soft sales forecast and downbeat Q2 revenue guidance outweighed the earnings beat and buyback.
+ADBE,2024-03-14,2024-03-17,crowd_12,gpt-5-nano,down,60,Immediate market reaction priced in weaker guidance; buyback/AI helps but sentiment remains negative in near term.
+ADBE,2024-03-14,2024-03-21,crowd_12,gpt-5-nano,down,55,"Near-term pressure persists, but ongoing buyback and AI initiatives could cap further downside."
+ADBE,2024-03-14,2024-03-29,crowd_12,gpt-5-nano,up,60,"Over the medium term, capital return and AI-enabled growth could improve investor sentiment as guidance is digested."
+ADBE,2024-03-14,2024-04-13,crowd_12,gpt-5-nano,up,65,Cumulative effects of buyback and longer-term AI roadmap potentially lift the stock as fundamentals stabilize.
+ADBE,2024-03-14,2024-03-15,crowd_17,gpt-5-nano,down,65,After-hours reaction to soft Q2 revenue guidance despite strong Q1 earnings; near-term pressure.
+ADBE,2024-03-14,2024-03-17,crowd_17,gpt-5-nano,down,60,Continued negative sentiment from guidance; stock may remain under pressure in near term.
+ADBE,2024-03-14,2024-03-21,crowd_17,gpt-5-nano,down,55,Guidance concerns persist; catalysts like buyback/AI may limit downside but not enough for an immediate reversal.
+ADBE,2024-03-14,2024-03-29,crowd_17,gpt-5-nano,down,50,Medium-term risk remains; valuation supported by buyback but growth outlook struggles to accelerate.
+ADBE,2024-03-14,2024-04-13,crowd_17,gpt-5-nano,up,40,"Potential stabilization and longer-term catalysts (buyback, AI roadmap) could drive upside once pessimism fades."
+ADBE,2024-03-14,2024-03-15,crowd_15,gpt-5-nano,down,70,Soft Q2 revenue guidance despite Q1 beat; negative near-term sentiment from earnings results.
+ADBE,2024-03-14,2024-03-17,crowd_15,gpt-5-nano,down,65,Ongoing revenue guidance concerns; buyback news provides some support but not enough to reverse early weakness.
+ADBE,2024-03-14,2024-03-21,crowd_15,gpt-5-nano,down,50,Possible stabilization as investors digest results; fundamental headwinds persist though buyback/AI initiatives offer a cushion.
+ADBE,2024-03-14,2024-03-29,crowd_15,gpt-5-nano,up,55,"Buyback authorization and AI roadmap may begin to signal a positive longer-term trajectory, aiding a rebound."
+ADBE,2024-03-14,2024-04-13,crowd_15,gpt-5-nano,up,60,"Cumulative effects of buyback and strategic AI initiatives could improve sentiment and earnings trajectory, supporting a higher price."
+ADBE,2024-03-14,2024-03-15,crowd_13,gpt-5-nano,down,75,Near-term sell-off after soft Q2 revenue forecast despite Q1 beat; negative sentiment dominates the first trading day.
+ADBE,2024-03-14,2024-03-17,crowd_13,gpt-5-nano,down,65,Guidance remains tepid and catalysts are limited; risk-off mood may persist in the short run.
+ADBE,2024-03-14,2024-03-21,crowd_13,gpt-5-nano,up,60,Share repurchase announced (and AI roadmap potential) could provide support and a rebound from oversold levels.
+ADBE,2024-03-14,2024-03-29,crowd_13,gpt-5-nano,up,65,Mid-term positive signals from buyback and improving AI-enabled offerings; growth remains modest but favorable.
+ADBE,2024-03-14,2024-04-13,crowd_13,gpt-5-nano,up,70,"Sustained buyback, solid cash flows, and potential long-term AI-driven growth support a higher probability of a positive trend."
+ADBE,2024-03-14,2024-03-15,crowd_19,gpt-5-nano,down,70,Q1 beat but Q2 revenue guidance downbeat; extended-session drop indicates near-term negative sentiment despite buyback news.
+ADBE,2024-03-14,2024-03-17,crowd_19,gpt-5-nano,down,60,Initial reaction may persist; buyback and AI initiatives provide some support but guidance remains cautious.
+ADBE,2024-03-14,2024-03-21,crowd_19,gpt-5-nano,down,55,Limited upside catalysts in the short term; potential stabilization but no clear rebound signal yet.
+ADBE,2024-03-14,2024-03-29,crowd_19,gpt-5-nano,up,60,Cash return via buyback and AI roadmap could start to shift sentiment higher as concerns over guidance fade.
+ADBE,2024-03-14,2024-04-13,crowd_19,gpt-5-nano,up,65,Sustained buyback and improving investor focus on growth initiatives may lift shares beyond the near-term downside.
+ADBE,2024-03-14,2024-03-15,crowd_16,gpt-5-nano,down,78,Q1 실적은 양호했지만 Q2 매출 가이던스가 약화되어 단기 하락 압력이 작용; 기사 제목과 본문에서 하방 신호가 명확함.
+ADBE,2024-03-14,2024-03-17,crowd_16,gpt-5-nano,down,60,가이던스 부정적 흐름이 지속될 가능성 높음. 다만 자사주 매입 등 긍정 요소가 일부 완충 역할.
+ADBE,2024-03-14,2024-03-21,crowd_16,gpt-5-nano,down,54,"단기 부정적 흐름이 계속될 가능성이나, AI 업데이트와 자사주 등은 하방 리스크를 일부 완화할 수 있음."
+ADBE,2024-03-14,2024-03-29,crowd_16,gpt-5-nano,down,50,"시장에 뚜렷한 반등 모멘텀은 아직 미약하지만, 일부 긍정 요인이 존재해 방향성 불확실성 유지."
+ADBE,2024-03-14,2024-04-13,crowd_16,gpt-5-nano,down,40,장기적으로는 AI 및 재원 활용 등의 긍정 요인이 있으나 현재 가이던스 악화가 기본 트렌드로 남을 확률이 높음.
+ADBE,2024-03-14,2024-03-15,crowd_14,gpt-5-nano,down,70,Q2 revenue guidance softer than expected; after-hours drop despite Q1 beat and $25B buyback.
+ADBE,2024-03-14,2024-03-17,crowd_14,gpt-5-nano,down,60,Short-term negativity from softer guidance; buyback and AI initiatives provide limited cushion.
+ADBE,2024-03-14,2024-03-21,crowd_14,gpt-5-nano,down,55,"Downward pressure persists, but support from capital return may limit downside."
+ADBE,2024-03-14,2024-03-29,crowd_14,gpt-5-nano,up,50,Buyback and AI roadmap could begin to shift sentiment and trigger a rebound.
+ADBE,2024-03-14,2024-04-13,crowd_14,gpt-5-nano,up,65,Catalysts like buyback and AI-enabled product momentum may drive a constructive move.
+ADBE,2024-03-14,2024-03-15,crowd_18,gpt-5-nano,down,75,After-hours drop ~10-11% due to soft Q2 revenue guidance despite Q1 beat; near-term negative sentiment dominates.
+ADBE,2024-03-14,2024-03-17,crowd_18,gpt-5-nano,down,65,Guidance disappointment likely to weigh a bit longer; momentum remains negative though buyback/AI news could curb further losses.
+ADBE,2024-03-14,2024-03-21,crowd_18,gpt-5-nano,up,60,Short-term stabilization possible as the $25B buyback and AI roadmap chatter provide a positive offset to the guidance miss.
+ADBE,2024-03-14,2024-03-29,crowd_18,gpt-5-nano,up,70,Longer horizon: buyback support and ongoing AI integrations may start to translate into price appreciation despite the near-term headwind.
+ADBE,2024-03-14,2024-04-13,crowd_18,gpt-5-nano,up,75,Sustained upside potential from capital return and AI-driven product momentum; fundamentals may begin to outweigh the initial guidance disappointment.
+ADBE,2024-03-14,2024-03-15,crowd_20,gpt-5-nano,down,85,Immediate negative reaction to softer Q2 revenue guidance and extended-session sell-off (news highlights a downbeat outlook despite Q1 beat).
+ADBE,2024-03-14,2024-03-17,crowd_20,gpt-5-nano,down,70,"Continued caution on guidance; no strong near-term catalysts, though a $25B buyback and AI initiatives offer some offset."
+ADBE,2024-03-14,2024-03-21,crowd_20,gpt-5-nano,down,55,Downward momentum may persist but could begin stabilizing as capital returns (buyback) and AI roadmap provide potential support.
+ADBE,2024-03-14,2024-03-29,crowd_20,gpt-5-nano,up,40,Potential bottoming and valuation support from buyback and long-term AI monetization prospects could start to weigh in.
+ADBE,2024-03-14,2024-04-13,crowd_20,gpt-5-nano,up,60,Ongoing buyback program and AI strategy may drive a rebound as investors reassess long-term value and monetization potential.
+ADBE,2024-03-14,2024-03-15,crowd_22,gpt-5-nano,down,70,Weak Q2 revenue guidance despite Q1 beat; extended-session drop indicates negative near-term sentiment.
+ADBE,2024-03-14,2024-03-17,crowd_22,gpt-5-nano,down,60,Guidance-driven pressure persists; buyback and AI initiatives exist but have not offset the negative revenue outlook.
+ADBE,2024-03-14,2024-03-21,crowd_22,gpt-5-nano,up,45,"Possible short-term bounce on buyback and optimism around AI roadmap, barring new negative news."
+ADBE,2024-03-14,2024-03-29,crowd_22,gpt-5-nano,up,60,Buyback strength and improving product momentum could begin to outweigh near-term softness in expectations.
+ADBE,2024-03-14,2024-04-13,crowd_22,gpt-5-nano,up,65,"Longer horizon may reflect continued capital returns and AI-driven growth potential, supporting gradual upside."
+ADBE,2024-03-14,2024-03-15,crowd_24,gpt-5-nano,down,65,Soft second-quarter revenue guidance despite Q1 beat; negative near-term sentiment.
+ADBE,2024-03-14,2024-03-17,crowd_24,gpt-5-nano,down,60,Continued guidance disappointment and potential profit-taking after the earnings remix.
+ADBE,2024-03-14,2024-03-21,crowd_24,gpt-5-nano,up,55,Stock buyback authorization and AI-driven product enhancements could help stabilize the stock.
+ADBE,2024-03-14,2024-03-29,crowd_24,gpt-5-nano,up,60,Capital return strength combined with potential improvement in revenue trajectory and visibility.
+ADBE,2024-03-14,2024-04-13,crowd_24,gpt-5-nano,up,65,Longer-term tailwinds from AI ecosystem integration and continuoous buyback support upside potential.
+ADBE,2024-03-14,2024-03-15,crowd_21,gpt-5-nano,down,75,Soft Q2 revenue guidance despite Q1 beat; negative near-term sentiment from after-hours slide (~10-11%) and Reuters headline on downbeat outlook.
+ADBE,2024-03-14,2024-03-17,crowd_21,gpt-5-nano,down,70,"Momentum remains negative due to ongoing guidance concerns, even as a $25B buyback provides some support."
+ADBE,2024-03-14,2024-03-21,crowd_21,gpt-5-nano,down,60,Near-term trend may stay pressured; potential relief from buyback and AI roadmap but overall guidance risk persists.
+ADBE,2024-03-14,2024-03-29,crowd_21,gpt-5-nano,up,55,Possible stabilization and partial rebound as investors digest stronger Q1 and capital returns; longer-term catalysts may start to weigh in.
+ADBE,2024-03-14,2024-04-13,crowd_21,gpt-5-nano,up,60,"Buyback and AI integration momentum could support a recovery, assuming no further negative guidance and improving sentiment."
+ADBE,2024-03-14,2024-03-15,crowd_23,gpt-5-nano,down,70,Extended-hours slide driven by soft Q2 revenue guidance despite Q1 beat; near-term sentiment negative though buyback announced.
+ADBE,2024-03-14,2024-03-17,crowd_23,gpt-5-nano,up,60,Buyback plan and AI initiatives may trigger a rebound after the initial disappointment.
+ADBE,2024-03-14,2024-03-21,crowd_23,gpt-5-nano,up,65,"Ongoing catalysts ($25B buyback, AI roadmap) could sustain a recovery as investors digest the positives."
+ADBE,2024-03-14,2024-03-29,crowd_23,gpt-5-nano,up,70,Longer-term growth potential from AI features and capital return supports upside despite near-term headwinds.
+ADBE,2024-03-14,2024-04-13,crowd_23,gpt-5-nano,up,75,"Sustained buyback and improving fundamentals likely to drive a positive trend, barring broader market stress."
+ADBE,2024-03-14,2024-03-15,crowd_25,gpt-5-nano,down,65,Soft sales forecast and downbeat Q2 guidance overshadow the Q1 beat; negative immediate sentiment.
+ADBE,2024-03-14,2024-03-17,crowd_25,gpt-5-nano,down,60,Momentum from guidance disappointment persists; short-term selling pressure may continue.
+ADBE,2024-03-14,2024-03-21,crowd_25,gpt-5-nano,up,55,Stock buyback announcement and AI roadmap potential provide near-term support and a possible rebound.
+ADBE,2024-03-14,2024-03-29,crowd_25,gpt-5-nano,up,60,Buyback and improving product momentum could limit downside and support a gradual recovery.
+ADBE,2024-03-14,2024-04-13,crowd_25,gpt-5-nano,up,65,"Longer-term catalysts (buyback, AI-enabled growth, ecosystem effects) may foster a sustained up-move."
+ADBE,2024-03-14,2024-03-15,crowd_average,crowd_models,down,73.1,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1828)"
+ADBE,2024-03-14,2024-03-17,crowd_average,crowd_models,down,63.0,"Aggregated decision from 25 crowd models (up_sum=60, down_sum=1515)"
+ADBE,2024-03-14,2024-03-21,crowd_average,crowd_models,down,55.4,"Aggregated decision from 25 crowd models (up_sum=670, down_sum=714)"
+ADBE,2024-03-14,2024-03-29,crowd_average,crowd_models,up,58.2,"Aggregated decision from 25 crowd models (up_sum=1300, down_sum=155)"
+ADBE,2024-03-14,2024-04-13,crowd_average,crowd_models,up,63.0,"Aggregated decision from 25 crowd models (up_sum=1495, down_sum=80)"
+ADBE,2024-06-13,2024-06-14,expert,gpt-5,up,82,Big earnings beat and raised FY guidance; stock up 15–17% after-hours implies higher next close
+ADBE,2024-06-13,2024-06-16,expert,gpt-5,up,66,Post-beat momentum and raised outlook likely keep price above pre-earnings despite resistance near $535/200-DMA
+ADBE,2024-06-13,2024-06-20,expert,gpt-5,up,60,Fundamental upgrade and AI monetization support; potential consolidation after gap but bias remains higher vs data date
+ADBE,2024-06-13,2024-06-28,expert,gpt-5,up,56,Improved guidance and wedge breakout support trend; some profit-taking around key resistance may temper gains
+ADBE,2024-06-13,2024-07-13,expert,gpt-5,up,55,Stronger fundamentals after prior YTD selloff; macro/software volatility a headwind but net bias modestly positive
+ADBE,2024-06-13,2024-06-14,crowd_9,gpt-5-nano,up,92,Earnings beat and raised full-year guidance; strong AI-related demand and user upgrades (Creative Cloud/Firefly) supported a quick price reaction.
+ADBE,2024-06-13,2024-06-16,crowd_9,gpt-5-nano,up,85,Sustained momentum from AI monetization and higher ARR; guidance uplift reinforces near-term upside.
+ADBE,2024-06-13,2024-06-20,crowd_9,gpt-5-nano,up,80,Positive quarterly trend and gross/margin potential with AI tools; risk from macro softness is mitigated by strong demand signals.
+ADBE,2024-06-13,2024-06-28,crowd_9,gpt-5-nano,up,75,"Longer-term upside from ongoing AI integration and recurring revenue growth, though macro factors could moderate pace."
+ADBE,2024-06-13,2024-07-13,crowd_9,gpt-5-nano,up,70,Sustained Digital Media growth and AI tailwinds support multi-week optimism; valuation and broader market cycles could temper gains.
+ADBE,2024-06-13,2024-06-14,crowd_3,gpt-5-nano,up,80,Adobe beat earnings and revenue estimates and raised full-year guidance; positive sentiment from after-hours trading suggests near-term upside.
+ADBE,2024-06-13,2024-06-16,crowd_3,gpt-5-nano,up,75,Continued momentum from strong results and AI-driven demand for Creative Cloud/Firefly; near-term catalysts remain intact.
+ADBE,2024-06-13,2024-06-20,crowd_3,gpt-5-nano,up,72,Bullish setup after earnings with a breakout pattern and a key resistance around $535; supportive guidance bodes well for short- to mid-term gains.
+ADBE,2024-06-13,2024-06-28,crowd_3,gpt-5-nano,up,70,Sustained demand and raised guidance underpin longer-term upside; fundamentals remain favorable despite broader market noise.
+ADBE,2024-06-13,2024-07-13,crowd_3,gpt-5-nano,up,65,"If macro conditions stay supportive and AI adoption continues, upside persists; still subject to market volatility and competitive dynamics."
+ADBE,2024-06-13,2024-06-14,crowd_10,gpt-5-nano,up,90,"Earnings beat and raised full-year guidance; AI-driven demand strengthens growth trajectory, fueling near-term upside."
+ADBE,2024-06-13,2024-06-16,crowd_10,gpt-5-nano,up,85,Sustained positive sentiment from results and ongoing AI monetization; upside momentum likely to continue in the short term.
+ADBE,2024-06-13,2024-06-20,crowd_10,gpt-5-nano,up,80,Strong fundamentals and guidance support outperformance; potential short-term volatility but overall uptrend remains intact.
+ADBE,2024-06-13,2024-06-28,crowd_10,gpt-5-nano,up,75,"Longer-term growth drivers (AI tools, subscriptions) underpin continued gains, though broader market risk could temper moves."
+ADBE,2024-06-13,2024-07-13,crowd_10,gpt-5-nano,up,70,Robust earnings trajectory and AI monetization provide solid fundamentals; macro/rotation risks exist but outlook remains positive.
+ADBE,2024-06-13,2024-06-14,crowd_8,gpt-5-nano,up,85,Earnings beat and raised full-year guidance; strong AI-driven demand and after-hours rally suggest immediate positive momentum.
+ADBE,2024-06-13,2024-06-16,crowd_8,gpt-5-nano,up,80,Sustained demand for Creative Cloud/Firefly and above-forecast ARR growth support near-term upside.
+ADBE,2024-06-13,2024-06-20,crowd_8,gpt-5-nano,up,75,"Positive earnings trajectory and guidance could sustain gains, though risk of short-term profit-taking exists."
+ADBE,2024-06-13,2024-06-28,crowd_8,gpt-5-nano,up,70,"Raised full-year revenue guidance and robust AI monetization imply durable momentum, barring macro headwinds."
+ADBE,2024-06-13,2024-07-13,crowd_8,gpt-5-nano,up,65,"Longer-term demand for Adobe’s AI-enabled software remains favorable, but market conditions and competition could temper gains."
+ADBE,2024-06-13,2024-06-14,crowd_6,gpt-5-nano,up,85,Adobe beat earnings and revenue expectations and raised full-year guidance; AI-driven demand and higher ARR in Digital Media support upside.
+ADBE,2024-06-13,2024-06-16,crowd_6,gpt-5-nano,up,75,"Positive earnings reaction likely to continue, though potential resistance around $535 and nearby technical levels could temper intraday moves."
+ADBE,2024-06-13,2024-06-20,crowd_6,gpt-5-nano,up,65,"Fundamental tailwinds remain (AI features monetization, guidance raise), but near-term momentum may ease into a shallow pullback or consolidation."
+ADBE,2024-06-13,2024-06-28,crowd_6,gpt-5-nano,up,60,Sustained optimism possible if AI demand remains robust and guidance proves durable; macro factors could introduce more volatility over two weeks.
+ADBE,2024-06-13,2024-07-13,crowd_6,gpt-5-nano,up,55,"Longer-term upside plausible with continued growth in AI-enabled products, but risk of market rotation and external shocks lowers confidence."
+ADBE,2024-06-13,2024-06-14,crowd_1,gpt-5-nano,up,85,"Earnings beat, raised full-year guidance; AI demand supports durable revenue growth; stock surged in after-hours."
+ADBE,2024-06-13,2024-06-16,crowd_1,gpt-5-nano,up,80,Positive sentiment from results may persist; near-term momentum but watch for a pullback after a sharp rise.
+ADBE,2024-06-13,2024-06-20,crowd_1,gpt-5-nano,up,75,Sustained demand for Creative Cloud and Firefly; fundamentals solid though short-term volatility possible.
+ADBE,2024-06-13,2024-06-28,crowd_1,gpt-5-nano,up,70,Continued AI monetization and growth; broader market factors may influence pace but trajectory remains positive.
+ADBE,2024-06-13,2024-07-13,crowd_1,gpt-5-nano,up,60,Longer horizon could introduce valuation reconsiderations; underlying growth remains supportive but more uncertain.
+ADBE,2024-06-13,2024-06-14,crowd_2,gpt-5-nano,up,85,Adobe beat earnings and raised full-year guidance; strong demand for AI-enabled tools led to an after-hours rally.
+ADBE,2024-06-13,2024-06-16,crowd_2,gpt-5-nano,up,70,Positive momentum from the beat and higher guidance is likely to sustain near-term gains.
+ADBE,2024-06-13,2024-06-20,crowd_2,gpt-5-nano,up,65,"Fundamental strength supports gains, though potential short-term resistance at key chart levels could pause moves."
+ADBE,2024-06-13,2024-06-28,crowd_2,gpt-5-nano,up,60,"Sustained profitability and AI-driven product adoption support upside, but macro risks and market rotation exist."
+ADBE,2024-06-13,2024-07-13,crowd_2,gpt-5-nano,up,60,"Longer-term demand for Creative Cloud and AI features suggests continued upside, with possible consolidation or rotation risk."
+ADBE,2024-06-13,2024-06-14,crowd_7,gpt-5-nano,up,85,Adobe beat earnings and raised full-year guidance; strong AI-related demand supports near-term rally.
+ADBE,2024-06-13,2024-06-16,crowd_7,gpt-5-nano,up,80,Momentum from the earnings surge persists; potential move through key resistance near $535.
+ADBE,2024-06-13,2024-06-20,crowd_7,gpt-5-nano,up,70,"Bullish setup and AI adoption trends remain favorable, though gains may face short-term resistance."
+ADBE,2024-06-13,2024-06-28,crowd_7,gpt-5-nano,up,65,"Positive fundamentals suggest continued upside, but expect some consolidation as the stock digests gains."
+ADBE,2024-06-13,2024-07-13,crowd_7,gpt-5-nano,up,60,Longer-term AI-driven demand supports upside; risk of market normalization could temper magnitude of gains.
+ADBE,2024-06-13,2024-06-14,crowd_4,gpt-5-nano,up,85,"Adobe beat earnings and revenue estimates and raised full-year guidance; AI-driven demand for Creative Cloud and Firefly monetization boosted investor optimism, likely pushing the stock higher in the near term."
+ADBE,2024-06-13,2024-06-16,crowd_4,gpt-5-nano,up,75,"Positive momentum from the earnings beat and favorable guidance may persist for a few days, though some profit-taking could temper moves."
+ADBE,2024-06-13,2024-06-20,crowd_4,gpt-5-nano,up,70,"Sustained demand for Adobe's software suite and continued AI adoption support upside; watch for any near-term resistance around key levels, but trend remains bullish."
+ADBE,2024-06-13,2024-06-28,crowd_4,gpt-5-nano,up,65,"Fundamentals appear to be improving with raised guidance, which could sustain gains over a two-week horizon, though macro and valuation risks exist."
+ADBE,2024-06-13,2024-07-13,crowd_4,gpt-5-nano,up,60,"Longer horizon still favorable if fundamentals hold, but broader market conditions and potential multiple expansion concerns could temper gains by month-end."
+ADBE,2024-06-13,2024-06-14,crowd_12,gpt-5-nano,up,88,Earnings beat and raised full-year guidance; AI-driven Firefly monetization boosts near-term upside.
+ADBE,2024-06-13,2024-06-16,crowd_12,gpt-5-nano,up,80,"Positive momentum from results and guidance, with subscribers upgrading to Firefly features supporting continued gains."
+ADBE,2024-06-13,2024-06-20,crowd_12,gpt-5-nano,up,75,Sustained demand for Creative Cloud and AI capabilities likely maintains a short-term rally.
+ADBE,2024-06-13,2024-06-28,crowd_12,gpt-5-nano,up,70,"Fundamental upgrade and AI monetization trend bode well for mid-term, barring macro headwinds."
+ADBE,2024-06-13,2024-07-13,crowd_12,gpt-5-nano,up,65,"Longer-term positive trajectory from AI adoption and revenue growth, though susceptible to broader market conditions."
+ADBE,2024-06-13,2024-06-14,crowd_5,gpt-5-nano,up,88,Earnings beat and raised full-year guidance; AI-enabled product demand supported immediate upside.
+ADBE,2024-06-13,2024-06-16,crowd_5,gpt-5-nano,up,85,"Positive reaction to results and higher outlook likely to sustain short-term rally, with minor resistance near notable levels."
+ADBE,2024-06-13,2024-06-20,crowd_5,gpt-5-nano,up,80,Momentum from earnings and healthier guidance; continued demand for Adobe's AI-enabled tools.
+ADBE,2024-06-13,2024-06-28,crowd_5,gpt-5-nano,up,75,Fundamentals remain favorable; macro risks exist but core growth stays robust.
+ADBE,2024-06-13,2024-07-13,crowd_5,gpt-5-nano,up,70,Longer-term uptrend supported by AI-driven product adoption; some market volatility remains possible.
+ADBE,2024-06-13,2024-06-14,crowd_11,gpt-5-nano,up,85,Earnings beat and raised full-year guidance; post-earnings rally supports near-term upside.
+ADBE,2024-06-13,2024-06-16,crowd_11,gpt-5-nano,up,80,Sustained demand for Creative Cloud and AI features with upgraded guidance suggests continued outperformance in the short term.
+ADBE,2024-06-13,2024-06-20,crowd_11,gpt-5-nano,up,80,Bullish chart dynamics noted (breakout potential) alongside strong quarterly results reinforce a positive near-term trajectory.
+ADBE,2024-06-13,2024-06-28,crowd_11,gpt-5-nano,up,70,"Fundamentals remain favorable due to AI monetization and high ARR growth, but some near-term volatility/sector rotation could temper gains."
+ADBE,2024-06-13,2024-07-13,crowd_11,gpt-5-nano,up,70,"Longer-term tailwinds from AI adoption and Firefly monetization support upside, though macro uncertainties may cap magnitude."
+ADBE,2024-06-13,2024-06-14,crowd_13,gpt-5-nano,up,85,Earnings beat and raised full-year guidance; AI-related momentum and stronger ARR suggest immediate positive sentiment.
+ADBE,2024-06-13,2024-06-16,crowd_13,gpt-5-nano,up,80,Sustained momentum after the strong print and guidance raise; investors likely continue to price in growth drivers.
+ADBE,2024-06-13,2024-06-20,crowd_13,gpt-5-nano,up,70,"Bullish setup from the earnings rally; near-term upside supported by continued demand for AI-enabled products, though some profit-taking risk exists."
+ADBE,2024-06-13,2024-06-28,crowd_13,gpt-5-nano,up,65,"Guidance upgrade reinforces longer-term upside; valuation risk and rotation could temper gains, but trend remains positive."
+ADBE,2024-06-13,2024-07-13,crowd_13,gpt-5-nano,up,60,Sustained AI monetization and large user base support longer-term upside; macro factors and potential profit-taking may cap gains but odds remain positive.
+ADBE,2024-06-13,2024-06-14,crowd_14,gpt-5-nano,up,85,"Adobe beat earnings and raised full-year guidance; AI-driven demand and higher ARR beat expectations, prompting a strong after-hours rally and positive sentiment."
+ADBE,2024-06-13,2024-06-16,crowd_14,gpt-5-nano,up,80,"Momentum likely to persist as investors digest solid guidance and AI monetization progress; near-term resistance around $535 noted, but upside remains."
+ADBE,2024-06-13,2024-06-20,crowd_14,gpt-5-nano,up,75,Sustained demand for Creative Cloud and Firefly AI features supports further gains; possible consolidation near resistance levels.
+ADBE,2024-06-13,2024-06-28,crowd_14,gpt-5-nano,up,70,Longer-term upside driven by AI adoption and optimistic earnings outlook; macro uncertainty may temper the pace of gains.
+ADBE,2024-06-13,2024-07-13,crowd_14,gpt-5-nano,up,65,"Bullish AI-driven growth story supports earnings trajectory, but macro risks and profit-taking could moderate gains over a 30-day horizon."
+ADBE,2024-06-13,2024-06-14,crowd_17,gpt-5-nano,up,85,"Earnings beat, raised full-year guidance, and strong AI-related demand pressure immediate positive moves; after-hours rally cited."
+ADBE,2024-06-13,2024-06-16,crowd_17,gpt-5-nano,up,80,"Momentum from the results likely continues; potential near-term resistance around $535 noted, but bullish fundamentals support continued upside."
+ADBE,2024-06-13,2024-06-20,crowd_17,gpt-5-nano,up,75,Bullish chart setup (breakout from a falling wedge) plus sustained demand for Adobe’s AI-enabled products reinforces upward path.
+ADBE,2024-06-13,2024-06-28,crowd_17,gpt-5-nano,up,70,"Raised full-year guidance and solid ARR growth imply durable demand; macro concerns are manageable for now, supporting mid-term upside."
+ADBE,2024-06-13,2024-07-13,crowd_17,gpt-5-nano,up,65,"Longer horizon should benefit from fundamentals and AI-driven product momentum, though upside may be tempered by resistance levels and broader market volatility."
+ADBE,2024-06-13,2024-06-14,crowd_18,gpt-5-nano,up,85,실적 상회와 연간 가이던스 상향으로 단기 모멘텀 강화
+ADBE,2024-06-13,2024-06-16,crowd_18,gpt-5-nano,up,80,AI 수요 호조와 가이던스 지속 상향 기대
+ADBE,2024-06-13,2024-06-20,crowd_18,gpt-5-nano,up,75,AI 중심 제품군의 수요 확대 및 견조한 매출 가이드
+ADBE,2024-06-13,2024-06-28,crowd_18,gpt-5-nano,up,70,주가 상승 여력 남아 있고 실적 개선 속도 유지 가능
+ADBE,2024-06-13,2024-07-13,crowd_18,gpt-5-nano,up,65,장기 방향 긍정이나 매크로 리스크 제한적이나 여전히 주시 필요
+ADBE,2024-06-13,2024-06-14,crowd_16,gpt-5-nano,up,85,Earnings beat and raised full-year guidance; AI-driven demand supports stronger revenue trajectory and sentiment.
+ADBE,2024-06-13,2024-06-16,crowd_16,gpt-5-nano,up,75,Positive post-earnings momentum likely persists; continued optimism around AI monetization and Creative Cloud upgrades.
+ADBE,2024-06-13,2024-06-20,crowd_16,gpt-5-nano,up,70,Sustained earnings-driven rally and higher guidance; potential near-term resistance noted but fundamentals remain favorable.
+ADBE,2024-06-13,2024-06-28,crowd_16,gpt-5-nano,up,65,Strong fundamentals and AI adoption support upside; broader market noise could temper gains over this horizon.
+ADBE,2024-06-13,2024-07-13,crowd_16,gpt-5-nano,up,60,"Longer-term momentum from guidance upgrade; risk factors include macro softness and potential resistance levels, but trend remains positive."
+ADBE,2024-06-13,2024-06-14,crowd_15,gpt-5-nano,up,85,"Earnings beat and raised full-year guidance; AI-driven demand supports near-term upside, with after-hours strength suggesting momentum."
+ADBE,2024-06-13,2024-06-16,crowd_15,gpt-5-nano,up,75,Continued positive momentum from strong ARR growth and higher guidance reinforces near-term upside.
+ADBE,2024-06-13,2024-06-20,crowd_15,gpt-5-nano,up,70,"Short-term gains may pause for consolidation, but the underlying fundamentals remain constructive."
+ADBE,2024-06-13,2024-06-28,crowd_15,gpt-5-nano,up,65,"Fundamentals support a continued uptrend, though broader market uncertainty could cap gains."
+ADBE,2024-06-13,2024-07-13,crowd_15,gpt-5-nano,up,60,"Longer-term tailwinds from AI monetization could drive gains, but requires sustained demand and favorable macro conditions."
+ADBE,2024-06-13,2024-06-14,crowd_19,gpt-5-nano,up,90,Earnings beat with raised full-year guidance; immediate post-earnings rally signals strong near-term upside.
+ADBE,2024-06-13,2024-06-16,crowd_19,gpt-5-nano,up,85,Sustained momentum from AI-driven growth and robust ARR; revenue beat supports continued upside in the next few days.
+ADBE,2024-06-13,2024-06-20,crowd_19,gpt-5-nano,up,80,Positive fundamentals and a bullish chart pattern reference; continued optimism from guidance raise and AI monetization.
+ADBE,2024-06-13,2024-06-28,crowd_19,gpt-5-nano,up,75,Raised guidance and AI monetization underpin longer-term upside; macro risks exist but company fundamentals are strong.
+ADBE,2024-06-13,2024-07-13,crowd_19,gpt-5-nano,up,70,Structural upside from AI product demand and subscription growth; longer horizon subject to macro conditions but trend remains favorable.
+ADBE,2024-06-13,2024-06-14,crowd_20,gpt-5-nano,up,85,"Adobe beat earnings and revenue estimates and raised full-year guidance; AI-enabled products driving demand, supporting immediate positive price reaction."
+ADBE,2024-06-13,2024-06-16,crowd_20,gpt-5-nano,up,80,Sustained earnings-driven optimism and continued AI-driven product adoption suggest short-term upside beyond the initial reaction.
+ADBE,2024-06-13,2024-06-20,crowd_20,gpt-5-nano,up,75,"Fundamental improvements and stronger guidance provide ongoing bullish momentum, though some macro risk remains."
+ADBE,2024-06-13,2024-06-28,crowd_20,gpt-5-nano,up,70,"Positive long-term outlook from raised guidance and AI demand supports continued gains, with potential for further upgrades."
+ADBE,2024-06-13,2024-07-13,crowd_20,gpt-5-nano,up,65,"Structural tailwinds in digital software and AI tools favor longer-term upside, but market and macro volatility could temper gains."
+ADBE,2024-06-13,2024-06-14,crowd_21,gpt-5-nano,up,85,"Adobe beat earnings and revenue expectations, raised full-year guidance, and cited strong AI-related demand; post-earnings rally supports near-term upside."
+ADBE,2024-06-13,2024-06-16,crowd_21,gpt-5-nano,up,80,"Momentum from the earnings beat and higher guidance likely sustains through the next few days; some resistance noted near a chart level, but overall bullish."
+ADBE,2024-06-13,2024-06-20,crowd_21,gpt-5-nano,up,75,Sustained demand for Creative Cloud/Firefly products and continued AI monetization; bullish sentiment reinforced by guidance upgrade.
+ADBE,2024-06-13,2024-06-28,crowd_21,gpt-5-nano,up,65,"Positive long-term fundamentals support upside, but longer horizon introduces greater uncertainty from broader markets and potential valuation concerns."
+ADBE,2024-06-13,2024-07-13,crowd_21,gpt-5-nano,up,60,"Extended upside possible on strong execution and AI adoption, though risk of vol and macro shifts increases with time."
+ADBE,2024-06-13,2024-06-14,crowd_23,gpt-5-nano,up,85,Earnings beat and raised full-year guidance; AI monetization momentum and after-hours surge signal immediate bullish sentiment.
+ADBE,2024-06-13,2024-06-16,crowd_23,gpt-5-nano,up,75,"Sustained upside from strong results and guidance; near-term resistance around $535 noted, but momentum remains positive."
+ADBE,2024-06-13,2024-06-20,crowd_23,gpt-5-nano,up,70,Fundamental upgrades and AI-related demand support upside; potential consolidation near resistance but trend remains bullish.
+ADBE,2024-06-13,2024-06-28,crowd_23,gpt-5-nano,up,65,Continued demand for Creative Cloud/Firefly and raised guidance underpin gains; macro/peer caution could introduce volatility.
+ADBE,2024-06-13,2024-07-13,crowd_23,gpt-5-nano,up,60,Longer-term optimism from product adoption and AI moat; still sensitive to broader market shifts and resistance levels.
+ADBE,2024-06-13,2024-06-14,crowd_25,gpt-5-nano,up,90,Earnings beat and raised full-year guidance; AI demand and Firefly monetization boost sentiment; after-hours rally.
+ADBE,2024-06-13,2024-06-16,crowd_25,gpt-5-nano,up,80,Positive momentum likely persists given strong fundamentals and lack of negative cues in the news.
+ADBE,2024-06-13,2024-06-20,crowd_25,gpt-5-nano,up,75,Sustained demand for Creative Cloud and AI features supports an upward drift; potential short-term consolidation possible.
+ADBE,2024-06-13,2024-06-28,crowd_25,gpt-5-nano,up,70,"Durable demand and raised guidance underpin gains, though broader market cycles could temper momentum."
+ADBE,2024-06-13,2024-07-13,crowd_25,gpt-5-nano,up,65,"Longer-term AI adoption and software demand remain favorable, but valuation and macro factors could cap gains."
+ADBE,2024-06-13,2024-06-14,crowd_22,gpt-5-nano,up,90,"Earnings beat and raised full-year guidance, with strong AI-related product demand and recurring revenue growth driving immediate upside."
+ADBE,2024-06-13,2024-06-16,crowd_22,gpt-5-nano,up,85,Positive momentum from results and AI-driven adoption likely sustains a short-term rally; few negative signals in the report.
+ADBE,2024-06-13,2024-06-20,crowd_22,gpt-5-nano,up,80,Sustained momentum from Digital Media/Creative Cloud and continued guidance upgrades support continued gains amid firm demand.
+ADBE,2024-06-13,2024-06-28,crowd_22,gpt-5-nano,up,75,"Fundamentals remain favorable, but macro conditions and tech sector volatility could temper gains over a medium horizon."
+ADBE,2024-06-13,2024-07-13,crowd_22,gpt-5-nano,up,70,"Longer-term upside from continued AI monetization and strong guidance, though AI cycle dynamics and broader market risk may weigh on performance."
+ADBE,2024-06-13,2024-06-14,crowd_24,gpt-5-nano,up,78,Adobe beat earnings and raised full-year guidance; AI-enabled product demand and after-hours surge signal near-term upside.
+ADBE,2024-06-13,2024-06-16,crowd_24,gpt-5-nano,up,72,Sustained optimism from the strong results and higher guidance; momentum may continue though a resistance around $535 exists.
+ADBE,2024-06-13,2024-06-20,crowd_24,gpt-5-nano,up,65,"Bullish breakout patterns and ongoing AI monetization support further near-term gains, with some risk of consolidation near resistance."
+ADBE,2024-06-13,2024-06-28,crowd_24,gpt-5-nano,up,60,"Positive fundamentals and AI demand bode well for mid-term, but macro and sector risks could temper the rally."
+ADBE,2024-06-13,2024-07-13,crowd_24,gpt-5-nano,up,58,Longer-term tailwinds from Creative Cloud and Firefly adoption; valuation and broader market risks could cap upside but trend remains positive.
+ADBE,2024-06-13,2024-06-14,crowd_average,crowd_models,up,85.8,"Aggregated decision from 25 crowd models (up_sum=2146, down_sum=0)"
+ADBE,2024-06-13,2024-06-16,crowd_average,crowd_models,up,79.1,"Aggregated decision from 25 crowd models (up_sum=1977, down_sum=0)"
+ADBE,2024-06-13,2024-06-20,crowd_average,crowd_models,up,73.7,"Aggregated decision from 25 crowd models (up_sum=1842, down_sum=0)"
+ADBE,2024-06-13,2024-06-28,crowd_average,crowd_models,up,68.4,"Aggregated decision from 25 crowd models (up_sum=1710, down_sum=0)"
+ADBE,2024-06-13,2024-07-13,crowd_average,crowd_models,up,63.7,"Aggregated decision from 25 crowd models (up_sum=1593, down_sum=0)"
+ADBE,2024-12-11,2024-12-12,expert,gpt-5,down,85,"FY25 and Q1 revenue guidance below consensus; stock fell ~8% after-hours on the release, likely follow-through selling"
+ADBE,2024-12-11,2024-12-14,expert,gpt-5,down,60,Ongoing reaction to softer outlook and potential analyst estimate cuts may cap any early bounce
+ADBE,2024-12-11,2024-12-18,expert,gpt-5,up,58,"Oversold rebound likely after initial guidance-driven drop; solid results (revenue/EPS beats, ARR beat) provide support"
+ADBE,2024-12-11,2024-12-26,expert,gpt-5,up,62,"Stabilization as investors refocus on double-digit growth, strong FCF and buybacks despite modest guidance miss"
+ADBE,2024-12-11,2025-01-10,expert,gpt-5,up,68,Initial disappointment priced in; record FY24 performance and AI product monetization narrative can drive partial recovery
+ADBE,2024-12-11,2024-12-12,crowd_10,gpt-5-nano,down,85,Q4 revenue beat but full-year guidance misses expectations; after-hours drop around 8% indicates immediate negative sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_10,gpt-5-nano,down,75,Short-term traders may continue to press the stock due to conservative 2025 outlook despite solid quarterly results.
+ADBE,2024-12-11,2024-12-18,crowd_10,gpt-5-nano,down,70,Lack of near-term catalysts beyond AI momentum; guidance disappointment likely keeps downside bias.
+ADBE,2024-12-11,2024-12-26,crowd_10,gpt-5-nano,down,65,"Momentum may begin to stabilize, but persistent below-consensus targets keep the trend negative in the medium term."
+ADBE,2024-12-11,2025-01-10,crowd_10,gpt-5-nano,down,60,"Sustained skepticism from guidance miss; potential for a rebound exists if sentiment shifts, but not evident from current data."
+ADBE,2024-12-11,2024-12-12,crowd_2,gpt-5-nano,down,80,"Post-earnings move: Q4 beat but FY25 guidance below expectations; shares dropped after hours, signaling near-term downside pressure."
+ADBE,2024-12-11,2024-12-14,crowd_2,gpt-5-nano,down,70,Continued risk from softer-than-expected guidance; investors may remain cautious before any rebound materializes.
+ADBE,2024-12-11,2024-12-18,crowd_2,gpt-5-nano,down,55,"Short-term oversold conditions could trigger a modest bounce, but fundamentals suggest limited upside without clearer catalysts."
+ADBE,2024-12-11,2024-12-26,crowd_2,gpt-5-nano,up,60,Valuation and strong cash flow may support a relief rally as investors reassess AI-driven growth potential and long-term upside.
+ADBE,2024-12-11,2025-01-10,crowd_2,gpt-5-nano,up,65,Longer-term AI momentum andAdobe’s subscription model may drive higher prices after initial pessimism fades.
+ADBE,2024-12-11,2024-12-12,crowd_6,gpt-5-nano,down,65,Q4 beat but full-year guidance misses expectations; stock dropped ~8% after hours; AI-related momentum concerns and FX headwinds weigh on near-term sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_6,gpt-5-nano,down,60,Sustained negative reaction to below-consensus outlook; potential volatility but no clear near-term catalyst yet.
+ADBE,2024-12-11,2024-12-18,crowd_6,gpt-5-nano,down,55,Early stabilization unlikely until stronger guidance or AI momentum is confirmed; risks remain negative in the short term.
+ADBE,2024-12-11,2024-12-26,crowd_6,gpt-5-nano,down,50,"No immediate catalysts; fundamentals are solid (record revenue, strong cash flow) but valuation and guidance headwinds keep pressure."
+ADBE,2024-12-11,2025-01-10,crowd_6,gpt-5-nano,down,45,Extended softness possible if guidance remains below expectations; potential rebound only with new catalysts or clearer AI momentum.
+ADBE,2024-12-11,2024-12-12,crowd_7,gpt-5-nano,down,72,Q4 beat but 2025 revenue guidance miss; after-hours sell-off indicates near-term downside pressure.
+ADBE,2024-12-11,2024-12-14,crowd_7,gpt-5-nano,down,65,Continued skepticism on forward guidance; no immediate positive catalyst.
+ADBE,2024-12-11,2024-12-18,crowd_7,gpt-5-nano,down,60,Valuation under pressure with decelerating growth; may take time to stabilize.
+ADBE,2024-12-11,2024-12-26,crowd_7,gpt-5-nano,down,55,Longer-term risks linger despite strong cash flow and AI push.
+ADBE,2024-12-11,2025-01-10,crowd_7,gpt-5-nano,down,50,Potential stabilization unlikely without clearer upside catalysts; downside risk remains.
+ADBE,2024-12-11,2024-12-12,crowd_1,gpt-5-nano,down,80,Q4 revenue beat but 2025 guidance misses estimates; post-earnings drop reported and headlines suggest negative sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_1,gpt-5-nano,down,70,"Initial sell-off may persist as investors digest below-consensus guidance, despite solid quarterly results."
+ADBE,2024-12-11,2024-12-18,crowd_1,gpt-5-nano,down,60,"Short-term momentum remains negative, though some stabilization could begin if fundamentals remain intact."
+ADBE,2024-12-11,2024-12-26,crowd_1,gpt-5-nano,up,55,Potential rebound as investors reassess long-term AI momentum and Adobe's strong free cash flow despite near-term guidance disappointment.
+ADBE,2024-12-11,2025-01-10,crowd_1,gpt-5-nano,up,60,"On a longer horizon, AI adoption, robust ARR growth, and cash generation could support a recovered price after an initial pullback."
+ADBE,2024-12-11,2024-12-12,crowd_5,gpt-5-nano,down,75,Q4 beat on revenue but forward guidance missed estimates; after-hours sell-off noted in the data.
+ADBE,2024-12-11,2024-12-14,crowd_5,gpt-5-nano,down,65,Sustained negative sentiment due to below-consensus guidance and modest EPS upside.
+ADBE,2024-12-11,2024-12-18,crowd_5,gpt-5-nano,down,50,Early drift may continue as investors digest guidance; potential stabilization only if AI momentum translates into outlook.
+ADBE,2024-12-11,2024-12-26,crowd_5,gpt-5-nano,up,60,Strong free cash flow and long-term AI opportunities could spark a relief rally as fundamentals are reassessed.
+ADBE,2024-12-11,2025-01-10,crowd_5,gpt-5-nano,up,65,"If growth and AI-driven adoption sustain, earnings quality and cash flows may support a rebound and multiple expansion."
+ADBE,2024-12-11,2024-12-12,crowd_3,gpt-5-nano,down,75,Q4 beat but FY25 guidance below consensus; after-hours drop signals near-term pressure.
+ADBE,2024-12-11,2024-12-14,crowd_3,gpt-5-nano,down,65,Continued negative reaction to softer forward guidance and mixed AI exposure signals.
+ADBE,2024-12-11,2024-12-18,crowd_3,gpt-5-nano,down,60,Short-term sentiment remains cautious despite solid revenue base and cash flow.
+ADBE,2024-12-11,2024-12-26,crowd_3,gpt-5-nano,up,60,"Improving fundamentals (cash flow, AI momentum) could begin to offset guidance concerns."
+ADBE,2024-12-11,2025-01-10,crowd_3,gpt-5-nano,up,70,Longer-term AI-driven demand and valuation recovery potential may resume upward drift.
+ADBE,2024-12-11,2024-12-12,crowd_8,gpt-5-nano,down,85,After-hours drop driven by guidance miss for FY2025 despite Q4 beat.
+ADBE,2024-12-11,2024-12-14,crowd_8,gpt-5-nano,down,75,Continued weakness from below-consensus revenue guidance; near-term pressure persists.
+ADBE,2024-12-11,2024-12-18,crowd_8,gpt-5-nano,down,65,Short-term selling pressure may persist; potential stabilization not guaranteed.
+ADBE,2024-12-11,2024-12-26,crowd_8,gpt-5-nano,up,40,Possible relief rally as the market digests results; AI momentum could attract buyers.
+ADBE,2024-12-11,2025-01-10,crowd_8,gpt-5-nano,up,50,Potential trend reversal if AI-driven growth and cash flow sustain sentiment; still uncertain.
+ADBE,2024-12-11,2024-12-12,crowd_4,gpt-5-nano,down,75,Q4 beat but 2025 revenue guidance misses estimates; immediate post-earnings selloff signals near-term weakness.
+ADBE,2024-12-11,2024-12-14,crowd_4,gpt-5-nano,down,65,Guidance disappointment persists; investors digest the miss and price may stay pressured.
+ADBE,2024-12-11,2024-12-18,crowd_4,gpt-5-nano,down,55,"Near-term headwinds linger, but some stabilization could occur if selling momentum fades."
+ADBE,2024-12-11,2024-12-26,crowd_4,gpt-5-nano,up,60,"Longer horizon catalysts (strong cash flow, AI strategy) may attract buyers and drive a partial rebound."
+ADBE,2024-12-11,2025-01-10,crowd_4,gpt-5-nano,up,65,"Sustained upside potential if 2025 targets and AI momentum materialize, supporting a gradual recovery."
+ADBE,2024-12-11,2024-12-12,crowd_9,gpt-5-nano,down,70,가이던스 미스와 발표 직후 주가 급락으로 당일 하락 가능성 큼
+ADBE,2024-12-11,2024-12-14,crowd_9,gpt-5-nano,down,60,"단기 트레이딩 흐름에서 추가 하락 우려 남아 있지만, 장기 개선 요인은 여전히 존재"
+ADBE,2024-12-11,2024-12-18,crowd_9,gpt-5-nano,up,55,"현금창출력과 ARR 성장, AI 모멘텀으로 바닥 다지기 후 반등 가능성"
+ADBE,2024-12-11,2024-12-26,crowd_9,gpt-5-nano,up,65,중장기 긍정 요인 지속: 구독 기반 매출 안정성과 FCF 개선이 주가를 지지할 가능성
+ADBE,2024-12-11,2025-01-10,crowd_9,gpt-5-nano,up,70,AI 수요 지속과 구독 비즈니스의 견조한 매출 흐름이 상승 모멘텀을 강화할 가능성
+ADBE,2024-12-11,2024-12-12,crowd_11,gpt-5-nano,down,70,Q4 revenue beat but 2025 guidance below consensus; after-hours drop signals near-term selling pressure.
+ADBE,2024-12-11,2024-12-14,crowd_11,gpt-5-nano,down,65,Continued reaction to muted revenue guidance and lower-than-expected near-term outlook; few immediate catalysts.
+ADBE,2024-12-11,2024-12-18,crowd_11,gpt-5-nano,down,55,Momentum from the initial reaction diminishing; sentiment remains cautious despite AI momentum.
+ADBE,2024-12-11,2024-12-26,crowd_11,gpt-5-nano,up,50,Possible stabilization and value-driven buyers emerging; longer-term AI platform strength and strong cash flow could support rebound.
+ADBE,2024-12-11,2025-01-10,crowd_11,gpt-5-nano,up,60,"Fundamentals (ARR, cash flow, buybacks) remain solid; potential re-rating as guidance is absorbed and investors regain confidence."
+ADBE,2024-12-11,2024-12-12,crowd_20,gpt-5-nano,down,78,Post-earnings drop after Adobe reported Q4 beat but full-year guidance missed estimates; stock fell after hours.
+ADBE,2024-12-11,2024-12-14,crowd_20,gpt-5-nano,down,65,Extended trading reaction and below-consensus 2025 revenue/EPS targets indicate continued negative sentiment.
+ADBE,2024-12-11,2024-12-18,crowd_20,gpt-5-nano,down,60,Initial momentum may persist with limited catalysts to reverse the trend in the near term.
+ADBE,2024-12-11,2024-12-26,crowd_20,gpt-5-nano,up,42,Possible rebound as investors reassess long-term AI strategy and cash flow strength; oversold conditions could attract buyers.
+ADBE,2024-12-11,2025-01-10,crowd_20,gpt-5-nano,up,55,"Over the longer horizon, AI momentum and robust cash generation could support a gradual recovery despite near-term guidance concerns."
+ADBE,2024-12-11,2024-12-12,crowd_17,gpt-5-nano,down,82,Q4 beat on revenue but FY25 guidance misses consensus; stock fell ~8% after hours signaling negative immediate sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_17,gpt-5-nano,down,70,Continued selling pressure as investors digest weaker near-term guidance; no new catalysts yet.
+ADBE,2024-12-11,2024-12-18,crowd_17,gpt-5-nano,down,60,"Near-term downside bias may persist, though price could test support levels and stabilize."
+ADBE,2024-12-11,2024-12-26,crowd_17,gpt-5-nano,up,55,"Longer horizon catalysts (strong free cash flow, AI-focused product momentum) may start to re-rate the stock despite initial disappointment."
+ADBE,2024-12-11,2025-01-10,crowd_17,gpt-5-nano,up,65,Risk of near-term disappointment fading; potential upside from AI adoption and durable cash flows could drive a positive re-rating.
+ADBE,2024-12-11,2024-12-12,crowd_18,gpt-5-nano,down,75,"Q4 beat but 2025 revenue guidance misses expectations; shares dropped after hours (~8%), indicating negative near-term sentiment."
+ADBE,2024-12-11,2024-12-14,crowd_18,gpt-5-nano,down,65,Continued selling pressure from weaker guidance; fundamentals remain solid but disbelief over near-term outlook likely sustains downside.
+ADBE,2024-12-11,2024-12-18,crowd_18,gpt-5-nano,down,60,Short-term momentum remains negative; market could test lows before any potential stabilizing catalysts appear.
+ADBE,2024-12-11,2024-12-26,crowd_18,gpt-5-nano,up,50,"Possible bounce as investors digest strong cash flows and long-term targets, offsetting initial pessimism."
+ADBE,2024-12-11,2025-01-10,crowd_18,gpt-5-nano,up,60,Longer-term AI momentum and robust ARR/FCF profile may support a recovery after an initial post-earnings pullback.
+ADBE,2024-12-11,2024-12-12,crowd_14,gpt-5-nano,down,72,Q4 beat but 2025 revenue guidance misses expectations; after-hours drop observed; near-term sentiment negative.
+ADBE,2024-12-11,2024-12-14,crowd_14,gpt-5-nano,down,68,Guidance miss and below-consensus outlook remain a drag in early trading; skepticism over next quarter.
+ADBE,2024-12-11,2024-12-18,crowd_14,gpt-5-nano,down,55,"Valuation pressure persists; however, strong cash flow and high ARR provide some support, limiting further downside."
+ADBE,2024-12-11,2024-12-26,crowd_14,gpt-5-nano,up,60,"Longer horizon catalysts (solid free cash flow, robust ARR, AI momentum) could help shares recover as investors reassess risk."
+ADBE,2024-12-11,2025-01-10,crowd_14,gpt-5-nano,up,65,"Fundamentals like recurring revenue, cash flow, and buybacks coupled with AI initiatives may drive upside and multiple expansion over time."
+ADBE,2024-12-11,2024-12-12,crowd_15,gpt-5-nano,down,70,Q4 beat on revenue but full-year and next-quarter guidance missed estimates; negative price reaction after hours hints at near-term downside pressure despite solid fundamentals.
+ADBE,2024-12-11,2024-12-14,crowd_15,gpt-5-nano,down,65,"Sustained guidance disappointment and cautious outlook weigh on sentiment; underlying business remains strong, but near-term momentum remains negative."
+ADBE,2024-12-11,2024-12-18,crowd_15,gpt-5-nano,down,60,"Near-term risk persists from conservative guidance; some support from cash flow and ARR, but lack of upside catalysts keeps downside bias."
+ADBE,2024-12-11,2024-12-26,crowd_15,gpt-5-nano,down,55,"Fundamentals intact, yet limited near-term catalysts; potential consolidation with slower upside due to guidance gap."
+ADBE,2024-12-11,2025-01-10,crowd_15,gpt-5-nano,down,50,No clear reversal catalyst within 30 days; possible oversold bounce but downside risk remains if macro/AI sentiment stays cautious.
+ADBE,2024-12-11,2024-12-12,crowd_13,gpt-5-nano,down,80,Disappointing 2025 revenue guidance despite Q4 beat; immediate sell-off after results.
+ADBE,2024-12-11,2024-12-14,crowd_13,gpt-5-nano,down,70,Extended bearish reaction and cautious market sentiment toward AI stock valuations.
+ADBE,2024-12-11,2024-12-18,crowd_13,gpt-5-nano,down,60,Near-term pressure persists; risk of further minor declines as traders await clarity on AI monetization.
+ADBE,2024-12-11,2024-12-26,crowd_13,gpt-5-nano,down,55,Guidance disappointment may keep shares under pressure; any rally pending clearer catalysts.
+ADBE,2024-12-11,2025-01-10,crowd_13,gpt-5-nano,up,40,"Potential relief rally if AI-led growth expectations and cash flow strength re-rate the stock, though near-term headwinds remain."
+ADBE,2024-12-11,2024-12-12,crowd_12,gpt-5-nano,down,75,Q4 beat but 2025 revenue/guidance misses estimates; after-hours weakness indicated by stock drop.
+ADBE,2024-12-11,2024-12-14,crowd_12,gpt-5-nano,down,60,Guidance disappointment persists; near-term selling pressure may continue despite solid quarterly results.
+ADBE,2024-12-11,2024-12-18,crowd_12,gpt-5-nano,up,55,Potential short-term oversold bounce; AI momentum and strong free cash flow could spark a mild rebound.
+ADBE,2024-12-11,2024-12-26,crowd_12,gpt-5-nano,up,60,"Solid fundamentals (record revenue, ARR growth, cash flow) plus AI/maturation of products could support a gradual upside."
+ADBE,2024-12-11,2025-01-10,crowd_12,gpt-5-nano,up,65,Longer-term growth trajectory and AI-driven demand may lift the stock after initial volatility.
+ADBE,2024-12-11,2024-12-12,crowd_16,gpt-5-nano,down,85,Q4 beat but FY25 guidance misses estimates; after-hours selloff indicates negative near-term sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_16,gpt-5-nano,down,70,Guidance disappointment likely to weigh; investor caution persists despite strong Q4 metrics.
+ADBE,2024-12-11,2024-12-18,crowd_16,gpt-5-nano,up,60,"Possible relief rally as markets digest results and focus on long-term AI-enabled growth and solid cash flow, creating oversold rebound potential."
+ADBE,2024-12-11,2024-12-26,crowd_16,gpt-5-nano,up,65,Longer-term targets show solid growth trajectory; non-GAAP profitability and cash generation support upside revisions.
+ADBE,2024-12-11,2025-01-10,crowd_16,gpt-5-nano,up,70,"Sustained demand for Adobe's cloud platforms, strong ARR, and AI initiatives could drive a healthier trajectory and price appreciation over the month."
+ADBE,2024-12-11,2024-12-12,crowd_19,gpt-5-nano,down,75,Q4 beat but full-year guidance misses; after-hours drop (~8%) signals near-term selling pressure.
+ADBE,2024-12-11,2024-12-14,crowd_19,gpt-5-nano,down,60,Guidance disappointment likely weighs on sentiment for a few days; momentum may remain negative.
+ADBE,2024-12-11,2024-12-18,crowd_19,gpt-5-nano,down,50,"Short-term weakness could persist, but some stabilization may begin as investors digest fundamentals."
+ADBE,2024-12-11,2024-12-26,crowd_19,gpt-5-nano,up,60,Longer-term AI momentum and strong cash flow metrics could drive a rebound as concerns about guidance fade.
+ADBE,2024-12-11,2025-01-10,crowd_19,gpt-5-nano,up,65,Sustained AI strategy and healthy ARR growth with solid capital returns may lead to further upside despite macro risks.
+ADBE,2024-12-11,2024-12-12,crowd_22,gpt-5-nano,down,70,"Q4 beat but full-year/next-quarter guidance misses estimates; stock dropped after hours, signaling near-term pressure."
+ADBE,2024-12-11,2024-12-14,crowd_22,gpt-5-nano,down,60,Continued disappointment in guidance may keep downward drift in the short term.
+ADBE,2024-12-11,2024-12-18,crowd_22,gpt-5-nano,down,50,Potential stabilization but limited upside until clearer AI-related catalysts or stronger guidance emerge.
+ADBE,2024-12-11,2024-12-26,crowd_22,gpt-5-nano,up,55,Possible relief rally as investors digest results; strong cash flow and AI strategy could begin to support sentiment.
+ADBE,2024-12-11,2025-01-10,crowd_22,gpt-5-nano,up,65,Longer-term fundamentals and AI-driven opportunities may drive a recovery as sentiment improves.
+ADBE,2024-12-11,2024-12-12,crowd_23,gpt-5-nano,down,70,Q4 beat but FY25 guidance misses expectations; after-hours slide indicates near-term weakness.
+ADBE,2024-12-11,2024-12-14,crowd_23,gpt-5-nano,down,60,Continued pressure from conservative guidance; sentiment may remain negative before any AI-led catalysts emerge.
+ADBE,2024-12-11,2024-12-18,crowd_23,gpt-5-nano,down,55,Early digestion of guidance miss keeps the trend modestly bearish; potential stabilization only if AI narrative strengthens.
+ADBE,2024-12-11,2024-12-26,crowd_23,gpt-5-nano,up,60,AI momentum and strong cash generation could gradually improve sentiment and support a rebound.
+ADBE,2024-12-11,2025-01-10,crowd_23,gpt-5-nano,up,65,"Valuation and durable ARR growth, coupled with long-term AI opportunities and healthy FCF, may drive a fuller recovery."
+ADBE,2024-12-11,2024-12-12,crowd_21,gpt-5-nano,down,72,Q4 revenue beat but FY2025 guidance below expectations; post-earnings selloff noted in the article.
+ADBE,2024-12-11,2024-12-14,crowd_21,gpt-5-nano,down,68,Guidance disappointment likely weighs on near-term upside and keeps sentiment negative.
+ADBE,2024-12-11,2024-12-18,crowd_21,gpt-5-nano,down,60,Persistent near-term selling pressure and cautious tone from the results period.
+ADBE,2024-12-11,2024-12-26,crowd_21,gpt-5-nano,down,50,"Strong fundamentals (record revenue, high ARR, free cash flow) but ongoing guidance miss and macro uncertainty temper upside."
+ADBE,2024-12-11,2025-01-10,crowd_21,gpt-5-nano,up,58,AI momentum and solid cash flow could support a rebound as investors reassess long-term value and buyback effects.
+ADBE,2024-12-11,2024-12-12,crowd_25,gpt-5-nano,down,85,"Q4 beat on revenue but full-year guidance misses consensus; after-hours reaction cited as an ~8% drop, signalling near-term downside pressure."
+ADBE,2024-12-11,2024-12-14,crowd_25,gpt-5-nano,down,75,Guidance disappointment lingers even with strong quarterly results; sentiment remains negative in the short term.
+ADBE,2024-12-11,2024-12-18,crowd_25,gpt-5-nano,down,65,"Near-term momentum likely to stay subdued as investors digest the guidance miss, though robust ARR and FCF offer some support."
+ADBE,2024-12-11,2024-12-26,crowd_25,gpt-5-nano,down,55,"Downside may persist as the market prices in guidance risk, but fundamentals could cap further declines."
+ADBE,2024-12-11,2025-01-10,crowd_25,gpt-5-nano,up,60,Longer-term AI momentum and Adobe’s recurring revenue/strong cash flow may drive a rebound once the guidance risk is priced in.
+ADBE,2024-12-11,2024-12-12,crowd_24,gpt-5-nano,down,85,Adobe beat Q4 revenue estimates but guided 2025 below expectations; after-hours drop ~8% indicates negative near-term sentiment.
+ADBE,2024-12-11,2024-12-14,crowd_24,gpt-5-nano,down,75,"Continued caution due to muted guidance and disappointing near-term outlook, sustaining downward pressure in the short term."
+ADBE,2024-12-11,2024-12-18,crowd_24,gpt-5-nano,down,60,Initial disappointment may persist for about a week; potential minor stabilizations exist but downside risk remains.
+ADBE,2024-12-11,2024-12-26,crowd_24,gpt-5-nano,up,60,Valuation may look more attractive after a pullback; long-term AI momentum and strong cash flow could support a rebound.
+ADBE,2024-12-11,2025-01-10,crowd_24,gpt-5-nano,up,65,"Over the longer horizon, market may price in the AI-driven opportunity and robust free cash flow, enabling a healthier trend."
+ADBE,2024-12-11,2024-12-12,crowd_average,crowd_models,down,76.2,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1906)"
+ADBE,2024-12-11,2024-12-14,crowd_average,crowd_models,down,66.6,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1666)"
+ADBE,2024-12-11,2024-12-18,crowd_average,crowd_models,down,58.0,"Aggregated decision from 25 crowd models (up_sum=170, down_sum=1280)"
+ADBE,2024-12-11,2024-12-26,crowd_average,crowd_models,up,56.1,"Aggregated decision from 25 crowd models (up_sum=1017, down_sum=385)"
+ADBE,2024-12-11,2025-01-10,crowd_average,crowd_models,up,60.3,"Aggregated decision from 25 crowd models (up_sum=1303, down_sum=205)"
+ADBE,2025-03-12,2025-03-13,expert,gpt-5,down,78,Beat on Q1 but Q2/FY25 outlook underwhelmed; shares already fell 2–3% after-hours and sentiment is cautious.
+ADBE,2025-03-12,2025-03-15,expert,gpt-5,down,66,Post-earnings digestion and potential estimate/target cuts likely outweigh the beat despite solid fundamentals.
+ADBE,2025-03-12,2025-03-19,expert,gpt-5,up,56,Upcoming Investor Meeting at Adobe Summit (Mar 18) could highlight AI/Firefly monetization and spark a short-term relief bounce.
+ADBE,2025-03-12,2025-03-27,expert,gpt-5,down,61,Any event-driven pop may fade as investors refocus on reaffirmed (below-consensus) FY guide and a weak technical setup near 425 support.
+ADBE,2025-03-12,2025-04-11,expert,gpt-5,down,63,Valuation compression risk and bearish trend persist without upgraded guidance; macro risk-off tone adds pressure despite buybacks.
+ADBE,2025-03-12,2025-03-13,crowd_5,gpt-5-nano,down,75,After-hours drop (~2%) and guidance seen as underwhelming despite Q1 beat.
+ADBE,2025-03-12,2025-03-15,crowd_5,gpt-5-nano,down,70,Analyst downgrades and cautious outlook weigh on sentiment; near-term weakness expected.
+ADBE,2025-03-12,2025-03-19,crowd_5,gpt-5-nano,down,65,Sustained cautious guidance and mixed reactions to AI momentum keep pressure on the stock.
+ADBE,2025-03-12,2025-03-27,crowd_5,gpt-5-nano,down,50,"Momentum may still be negative, though some stabilization could begin as fundamentals are solid."
+ADBE,2025-03-12,2025-04-11,crowd_5,gpt-5-nano,up,60,"Long-term catalysts (AI momentum, ARR growth, strong cash flow) may support a rebound after initial softness."
+ADBE,2025-03-12,2025-03-13,crowd_9,gpt-5-nano,down,72,Q1 beat on revenue and EPS but guidance for coming quarters was softer than expectations; after-hours market reaction cited as negative.
+ADBE,2025-03-12,2025-03-15,crowd_9,gpt-5-nano,down,60,Continued investor caution due to underwhelming outlook despite strong quarter; headlines emphasize a weaker forward guide.
+ADBE,2025-03-12,2025-03-19,crowd_9,gpt-5-nano,up,45,"Potential short-term rebound as investors reprice fundamentals and AI-driven growth prospects, though ambiguity remains from guidance."
+ADBE,2025-03-12,2025-03-27,crowd_9,gpt-5-nano,up,60,"Strong longer-term fundamentals (ARR, cash flow) and ongoing AI initiatives may support a recovery as the market digests the softer near-term outlook."
+ADBE,2025-03-12,2025-04-11,crowd_9,gpt-5-nano,up,70,"Sustained product momentum (Firefly, AI features) and healthy subscription mix can drive upside over a longer horizon despite initial guidance softness."
+ADBE,2025-03-12,2025-03-13,crowd_10,gpt-5-nano,down,75,Q1 beat but guidance underwhelmed; after-hours drop signals negative near-term sentiment.
+ADBE,2025-03-12,2025-03-15,crowd_10,gpt-5-nano,down,70,Mixed analyst sentiment and cautious outlook may keep pressure in the next few days.
+ADBE,2025-03-12,2025-03-19,crowd_10,gpt-5-nano,down,60,Near-term weakness persists; no strong catalysts yet.
+ADBE,2025-03-12,2025-03-27,crowd_10,gpt-5-nano,down,55,Some AI-driven positives but lack of upbeat guidance keeps downside risk.
+ADBE,2025-03-12,2025-04-11,crowd_10,gpt-5-nano,down,50,"Absent stronger catalysts or guidance, downside risk remains with possible rebound only later."
+ADBE,2025-03-12,2025-03-13,crowd_2,gpt-5-nano,down,72,Q1 beat on revenue/eps but outlook for next quarter was below expectations; after-hours/extended trading selloff indicates near-term pressure.
+ADBE,2025-03-12,2025-03-15,crowd_2,gpt-5-nano,down,68,Persistent cautious sentiment due to conservative guidance and mixed analyst reaction from the earnings release.
+ADBE,2025-03-12,2025-03-19,crowd_2,gpt-5-nano,down,60,Near-term headwinds from a underwhelming outlook could sustain weakness or lead to continued volatility.
+ADBE,2025-03-12,2025-03-27,crowd_2,gpt-5-nano,up,42,"Longer-term fundamentals (record ARR, AI enhancements, cash flow) may attract buyers if initial volatility settles."
+ADBE,2025-03-12,2025-04-11,crowd_2,gpt-5-nano,up,55,AI-driven product momentum and strong cash position could support a rebound as the market digests the quarterly outlook.
+ADBE,2025-03-12,2025-03-13,crowd_1,gpt-5-nano,down,65,Q1 beat but outlook underwhelms; after-hours/short-term sentiment pressured by softer guidance.
+ADBE,2025-03-12,2025-03-15,crowd_1,gpt-5-nano,down,60,Continued caution from conservative guidance; near-term negativity may persist.
+ADBE,2025-03-12,2025-03-19,crowd_1,gpt-5-nano,up,60,"Strong quarterly momentum (record revenue, solid ARR) could rebound sentiment."
+ADBE,2025-03-12,2025-03-27,crowd_1,gpt-5-nano,up,70,Management reaffirmed full-year targets; AI-driven growth tailwinds support upside.
+ADBE,2025-03-12,2025-04-11,crowd_1,gpt-5-nano,up,75,Longer-term growth trajectory intact with AI initiatives; investor confidence likely to improve.
+ADBE,2025-03-12,2025-03-13,crowd_3,gpt-5-nano,down,75,Q1 beat on revenue/earnings but guidance was seen as underwhelming; after-hours selling pressure noted.
+ADBE,2025-03-12,2025-03-15,crowd_3,gpt-5-nano,down,60,Short-term sentiment may remain negative as investors digest the tempered outlook despite strong quarterly results.
+ADBE,2025-03-12,2025-03-19,crowd_3,gpt-5-nano,up,60,"Solid Q1 fundamentals and reaffirmed full-year targets, plus potential upside from AI initiatives and product expansions."
+ADBE,2025-03-12,2025-03-27,crowd_3,gpt-5-nano,up,65,"Fundamentals (revenue growth, high ARR, strong cash flow) and longer-term catalysts could start to drive a rebound."
+ADBE,2025-03-12,2025-04-11,crowd_3,gpt-5-nano,up,70,"Positive longer-term catalysts (AI features like Firefly, expanded product lines) may support renewed upside momentum."
+ADBE,2025-03-12,2025-03-13,crowd_6,gpt-5-nano,down,70,Q1 revenue/EPS beat but outlook/Guidance underwhelms; after-hours drop noted.
+ADBE,2025-03-12,2025-03-15,crowd_6,gpt-5-nano,down,60,Sustained cautious sentiment and some price-target downgrades; near-term weakness may persist.
+ADBE,2025-03-12,2025-03-19,crowd_6,gpt-5-nano,up,55,Potential relief rally as markets digest earnings; strong fundamentals and AI initiatives offer upside.
+ADBE,2025-03-12,2025-03-27,crowd_6,gpt-5-nano,up,65,"Fundamentals remain solid, guidance reaffirmed; longer-term catalysts may start to drive gains."
+ADBE,2025-03-12,2025-04-11,crowd_6,gpt-5-nano,up,70,"Positive long-term catalysts (Firefly AI, ARR growth, Digital/Experience Cloud) support sustained upside."
+ADBE,2025-03-12,2025-03-13,crowd_4,gpt-5-nano,down,70,Q1 results beat estimates but outlook for the next quarter was weaker than some expectations; after-hours drop suggests near-term pressure.
+ADBE,2025-03-12,2025-03-15,crowd_4,gpt-5-nano,down,65,Continued pessimism from guidance and mixed analyst commentary may keep the stock under pressure in the short term.
+ADBE,2025-03-12,2025-03-19,crowd_4,gpt-5-nano,down,60,Lack of a strong near-term catalyst and ongoing risk from softer guidance could keep momentum downside for about a week.
+ADBE,2025-03-12,2025-03-27,crowd_4,gpt-5-nano,up,50,"Over the longer horizon, fundamentals (record revenue, robust ARR, AI momentum) could support a rebound as the market digests the initial reaction."
+ADBE,2025-03-12,2025-04-11,crowd_4,gpt-5-nano,up,60,Potential stabilization and positive revisions from ongoing AI initiatives and new product enhancements may drive a recovery in the ensuing weeks.
+ADBE,2025-03-12,2025-03-13,crowd_7,gpt-5-nano,down,70,Q1 beat but outlook underwhelmed; after-hours drop signals near-term pressure.
+ADBE,2025-03-12,2025-03-15,crowd_7,gpt-5-nano,down,60,Guidance concerns persist; mixed sentiment from analyst commentary and 'outlook underwhelms' narrative.
+ADBE,2025-03-12,2025-03-19,crowd_7,gpt-5-nano,down,55,Technical patterns indicate potential further downside; near-term volatility remains.
+ADBE,2025-03-12,2025-03-27,crowd_7,gpt-5-nano,up,60,AI-driven products (Firefly) and ARR growth may start to support sentiment and re-rating.
+ADBE,2025-03-12,2025-04-11,crowd_7,gpt-5-nano,up,70,"Strong Q1 results + AI strategy (Firefly, real-time CDP) could fuel longer-term upside and target re-rating."
+ADBE,2025-03-12,2025-03-13,crowd_8,gpt-5-nano,down,65,"Q1 beat on revenue and EPS but outlook/Guidance was modest, leading to a negative after-hours reaction."
+ADBE,2025-03-12,2025-03-15,crowd_8,gpt-5-nano,down,60,Continued risk-off sentiment on conservative guidance; near-term weakness may persist before any rebound.
+ADBE,2025-03-12,2025-03-19,crowd_8,gpt-5-nano,down,50,Short-term pressures from guidance overshadow gains; limited immediate catalysts for a rally within a week.
+ADBE,2025-03-12,2025-03-27,crowd_8,gpt-5-nano,up,60,"Longer horizon catalysts exist (AI momentum, Firefly, product launches) and fundamentals remain solid, supporting a rebound."
+ADBE,2025-03-12,2025-04-11,crowd_8,gpt-5-nano,up,65,Reaffirmed targets and improving growth metrics; longer-term catalysts may drive a favorable trend as the market digests the results.
+ADBE,2025-03-12,2025-03-13,crowd_12,gpt-5-nano,down,72,"Q1 beat but outlook underwhelms and shares fell in after-hours trading, signaling near-term pressure."
+ADBE,2025-03-12,2025-03-15,crowd_12,gpt-5-nano,down,65,Persistent negative sentiment due to weaker guidance; limited immediate catalysts to reverse the trend.
+ADBE,2025-03-12,2025-03-19,crowd_12,gpt-5-nano,up,58,Strong quarterly revenue/earnings and AI-driven growth themes may start to offset near-term pessimism.
+ADBE,2025-03-12,2025-03-27,crowd_12,gpt-5-nano,up,63,"Sustained ARR growth and AI initiatives (Firefly, etc.) could support upside as fundamentals remain solid."
+ADBE,2025-03-12,2025-04-11,crowd_12,gpt-5-nano,up,68,Longer-term catalysts and reaffirmed targets may drive gradual price appreciation as sentiment improves.
+ADBE,2025-03-12,2025-03-13,crowd_15,gpt-5-nano,down,75,After-hours reaction to Outlook disappointment despite Q1 beat; guidance underwhelms.
+ADBE,2025-03-12,2025-03-15,crowd_15,gpt-5-nano,down,70,Cautious near-term sentiment persists amid soft guidance; risk-off in software names.
+ADBE,2025-03-12,2025-03-19,crowd_15,gpt-5-nano,up,60,Beat drives optimism and AI initiatives; expectations may rebound as fundamentals show value.
+ADBE,2025-03-12,2025-03-27,crowd_15,gpt-5-nano,up,65,Strong revenue base and reaffirmed targets support gradual upside.
+ADBE,2025-03-12,2025-04-11,crowd_15,gpt-5-nano,up,70,Longer-term AI and subscription growth plus healthy cash flow support continued upside.
+ADBE,2025-03-12,2025-03-13,crowd_11,gpt-5-nano,down,75,"Q1 beat on revenue and earnings, but outlook/2025 guidance seen as underwhelming, leading to a negative near-term reaction in after-hours trading."
+ADBE,2025-03-12,2025-03-15,crowd_11,gpt-5-nano,down,60,Analysts' mixed to cautious stance on guidance and some downgrades; near-term momentum remains negative despite solid quarterly results.
+ADBE,2025-03-12,2025-03-19,crowd_11,gpt-5-nano,down,50,"Short-term weakness may persist as investors digest the conservative guidance, though AI catalysts could provide some support."
+ADBE,2025-03-12,2025-03-27,crowd_11,gpt-5-nano,up,60,"AI momentum (Firefly), product expansion, and continued revenue strength could start to offset near-term concerns, enabling a rebound."
+ADBE,2025-03-12,2025-04-11,crowd_11,gpt-5-nano,up,65,"Longer-term growth drivers (AI-enabled offerings, large ARR base, and strategic upgrades) may drive sustained upside as guidance and market sentiment stabilize."
+ADBE,2025-03-12,2025-03-13,crowd_13,gpt-5-nano,down,75,"Q1 beat but outlook underwhelmed; after-hours drop (~2%) and multiple outlets note guidance was below consensus, weighing on near-term price."
+ADBE,2025-03-12,2025-03-15,crowd_13,gpt-5-nano,down,70,Continued negative sentiment from cautious guidance and analyst revisions suggest limited immediate recovery in the next few days.
+ADBE,2025-03-12,2025-03-19,crowd_13,gpt-5-nano,down,60,"Near-term headwinds persisting as investors digest the softer outlook, though solid revenue and AI momentum keep downside limited."
+ADBE,2025-03-12,2025-03-27,crowd_13,gpt-5-nano,up,60,"Over the medium term, Adobe's strong ARR growth, AI initiatives (Firefly, etc.), and reaffirmed targets could attract buyers and support a rebound."
+ADBE,2025-03-12,2025-04-11,crowd_13,gpt-5-nano,up,65,"Longer horizon catalysts remain intact (AI-driven product roadmap, healthy cash flow, and potential multiple expansion as sentiment stabilizes)."
+ADBE,2025-03-12,2025-03-13,crowd_17,gpt-5-nano,down,75,"Q1 revenue beat but outlook/guide underwhelming; after-hours drop reported and multiple outlets note subdued guidance, signaling near-term pressure."
+ADBE,2025-03-12,2025-03-15,crowd_17,gpt-5-nano,down,70,"Continued negative sentiment from guidance disappointment; analysts and media highlight that the long-term growth story relies on AI momentum, but near-term downside remains."
+ADBE,2025-03-12,2025-03-19,crowd_17,gpt-5-nano,down,60,"Initial reaction may persist for a week, with potential stabilization only if management clarifies guidance or the AI catalysts start to translate into stronger forward prospects."
+ADBE,2025-03-12,2025-03-27,crowd_17,gpt-5-nano,up,55,"Longer horizon catalysts exist (AI features like Firefly, Photoshop on iPhone, RealTime CDP, etc.) that could begin to shift sentiment and help re-rate the stock if fundamentals hold up."
+ADBE,2025-03-12,2025-04-11,crowd_17,gpt-5-nano,up,65,"Sustainable cash flow and AI-driven product momentum could support a rebound as concerns fade, though there remains risk if guidance remains weak."
+ADBE,2025-03-12,2025-03-13,crowd_19,gpt-5-nano,down,70,"Adobe beat on Q1 revenue but guided conservatively; after-hours sold-off on outlook disappointment, signaling near-term pressure."
+ADBE,2025-03-12,2025-03-15,crowd_19,gpt-5-nano,down,60,Ongoing caution from forward guidance and mixed sentiment despite strong quarterly results.
+ADBE,2025-03-12,2025-03-19,crowd_19,gpt-5-nano,up,65,Full-year targets reaffirmed and AI/Firefly momentum could begin to lift sentiment as investors digest the beat vs guidance.
+ADBE,2025-03-12,2025-03-27,crowd_19,gpt-5-nano,up,75,"Robust ARR growth, solid cash flow and strategically positive AI initiatives support a positive longer-term trajectory."
+ADBE,2025-03-12,2025-04-11,crowd_19,gpt-5-nano,up,80,Fundamental strengths and improving visibility into growth drivers imply continued upside beyond the initial reaction.
+ADBE,2025-03-12,2025-03-13,crowd_18,gpt-5-nano,down,65,Adobe beat on Q1 revenue and EPS but provided guidance that was below analyst expectations; after-hours price pressure suggests a near-term dip into the next trading session.
+ADBE,2025-03-12,2025-03-15,crowd_18,gpt-5-nano,down,60,"Continued caution from softer guidance may weigh on sentiment, despite strong quarterly results."
+ADBE,2025-03-12,2025-03-19,crowd_18,gpt-5-nano,up,55,Potential short-term oversold bounce as investors digest the beat and expect AI-driven momentum to support upside.
+ADBE,2025-03-12,2025-03-27,crowd_18,gpt-5-nano,up,60,"Strong fundamentals (record Q1, growing ARR) and reaffirmed long-term targets could drive a gradual recovery as momentum returns."
+ADBE,2025-03-12,2025-04-11,crowd_18,gpt-5-nano,up,50,"Longer-term prospects remain positive, though near-term guidance risk may temper gains; price could trend higher as visibility improves."
+ADBE,2025-03-12,2025-03-13,crowd_20,gpt-5-nano,down,70,Q1 beat on revenue and EPS but management guidance was below consensus; after-hours drop indicates negative near-term sentiment.
+ADBE,2025-03-12,2025-03-15,crowd_20,gpt-5-nano,down,60,Continued reaction to conservative guidance may keep pressure in the short term.
+ADBE,2025-03-12,2025-03-19,crowd_20,gpt-5-nano,up,60,Longer-term fundamentals remain intact with AI enhancements and solid ARR growth; potential rebound as investors digest the results.
+ADBE,2025-03-12,2025-03-27,crowd_20,gpt-5-nano,up,65,Beat-and-raise vibe combined with strong cash flow and buybacks supports a positive mid-term trajectory.
+ADBE,2025-03-12,2025-04-11,crowd_20,gpt-5-nano,up,65,AI-driven product momentum and durable demand suggest a recovery/thesis-friendly path as sentiment improves.
+ADBE,2025-03-12,2025-03-13,crowd_16,gpt-5-nano,down,72,Q1 beat but guidance for Q2/2025 is below consensus; after-hours drop (~2%) signals near-term weakness despite strong quarterly results.
+ADBE,2025-03-12,2025-03-15,crowd_16,gpt-5-nano,down,65,Mixed analyst sentiment and continued caution on Outlook; risk-off tone may persist in the first few days after earnings.
+ADBE,2025-03-12,2025-03-19,crowd_16,gpt-5-nano,up,60,"AI momentum (Firefly), expanding ARR, and upcoming Adobe Summit could provide a positive catalyst and rebound after initial sell-off."
+ADBE,2025-03-12,2025-03-27,crowd_16,gpt-5-nano,up,66,Sustained cash flow strength and potential reaffirmation/guidance nuance from the summit or management commentary support longer-term upside.
+ADBE,2025-03-12,2025-04-11,crowd_16,gpt-5-nano,up,70,Longer-term demand for Creative Cloud/Experience Cloud remains solid; continued AI-driven product expansion and buybacks may lift the stock.
+ADBE,2025-03-12,2025-03-13,crowd_14,gpt-5-nano,down,78,Q1 beat revenue/earnings but guidance was muted versus expectations; after-hours drop cited in coverage.
+ADBE,2025-03-12,2025-03-15,crowd_14,gpt-5-nano,down,70,Persistent cautious sentiment from analysts due to underwhelming outlook despite strong quarterly results.
+ADBE,2025-03-12,2025-03-19,crowd_14,gpt-5-nano,down,60,Near-term selling pressure may continue as investors digest guidance; potential volatility remains.
+ADBE,2025-03-12,2025-03-27,crowd_14,gpt-5-nano,up,60,"Longer-term catalysts from AI initiatives (Firefly, newer features) and solid ARR growth could help reverse near-term weakness."
+ADBE,2025-03-12,2025-04-11,crowd_14,gpt-5-nano,up,65,Reaffirmed targets combined with ongoing AI-driven product momentum suggest potential longer-term upside; dip buyers could support a rebound.
+ADBE,2025-03-12,2025-03-13,crowd_22,gpt-5-nano,down,65,Adobe beat on revenue and EPS but guidance was modest; after-hours reaction indicated a negative tilt.
+ADBE,2025-03-12,2025-03-15,crowd_22,gpt-5-nano,down,60,Near-term sentiment remains cautious despite strong quarter due to softer outlook and mixed analyst commentary.
+ADBE,2025-03-12,2025-03-19,crowd_22,gpt-5-nano,up,60,"Solid fundamentals (record revenue, healthy ARR, cost discipline) and reaffirmed targets could spark a rebound."
+ADBE,2025-03-12,2025-03-27,crowd_22,gpt-5-nano,up,70,AI-driven growth and expanding ARR support longer-term upside despite short-term headwinds.
+ADBE,2025-03-12,2025-04-11,crowd_22,gpt-5-nano,up,60,"Momentum from fundamentals may persist, though macro and valuation risks exist; overall positive bias remains."
+ADBE,2025-03-12,2025-03-13,crowd_21,gpt-5-nano,down,75,Weak near-term guidance despite Q1 beat; after-hours drop around 2% on outlook below consensus.
+ADBE,2025-03-12,2025-03-15,crowd_21,gpt-5-nano,down,65,Market continues to price in softer guidance; fundamentals remain solid but near-term momentum is muted.
+ADBE,2025-03-12,2025-03-19,crowd_21,gpt-5-nano,up,55,Potential rebound as investors reassess; AI momentum and record Q1 revenue could support upside.
+ADBE,2025-03-12,2025-03-27,crowd_21,gpt-5-nano,up,60,"Sustained earnings strength and AI initiatives (Firefly, real-time features) may drive further upside."
+ADBE,2025-03-12,2025-04-11,crowd_21,gpt-5-nano,up,70,Solid long-term growth trajectory with recurring revenue and AI-driven product expansion; targets reaffirmed.
+ADBE,2025-03-12,2025-03-13,crowd_24,gpt-5-nano,down,70,Q1 revenue/EPS beat but the outlook/guidance appears cautious; after-hours move suggests near-term selling pressure.
+ADBE,2025-03-12,2025-03-15,crowd_24,gpt-5-nano,down,65,Continued negative sentiment from guidance that underwhelmed expectations despite strong quarterly results.
+ADBE,2025-03-12,2025-03-19,crowd_24,gpt-5-nano,down,50,Near-term headwinds persist from cautious outlook; potential stabilization only later if sentiment shifts.
+ADBE,2025-03-12,2025-03-27,crowd_24,gpt-5-nano,up,45,"Longer-term catalysts (AI momentum, Firefly, new features) could support upside as investors digest results."
+ADBE,2025-03-12,2025-04-11,crowd_24,gpt-5-nano,up,60,"Sustained growth drivers (ARR expansion, AI-enabled offerings) may drive a gradual recovery and positive sentiment."
+ADBE,2025-03-12,2025-03-13,crowd_23,gpt-5-nano,down,60,Q1 beat but guidance for the next quarter was below consensus; after-hours decline indicates near-term selling pressure.
+ADBE,2025-03-12,2025-03-15,crowd_23,gpt-5-nano,down,55,Continued caution from tempered outlook and mixed analyst sentiment may keep the stock under pressure in the short term.
+ADBE,2025-03-12,2025-03-19,crowd_23,gpt-5-nano,down,50,"Near-term skepticism from guidance and potential volatility, though Adobe's fundamentals remain solid."
+ADBE,2025-03-12,2025-03-27,crowd_23,gpt-5-nano,up,60,"Longer-term catalysts (AI-driven features like Firefly, expanding ARR, strong cash flow) could start to lift sentiment and pricing."
+ADBE,2025-03-12,2025-04-11,crowd_23,gpt-5-nano,up,70,"Re-rating potential as the market digests the durable growth story and AI roadmap, supported by ongoing revenue and earnings strength."
+ADBE,2025-03-12,2025-03-13,crowd_25,gpt-5-nano,down,65,Q1 beat but outlook/guidance underwhelmed; after-hours drop ~2%
+ADBE,2025-03-12,2025-03-15,crowd_25,gpt-5-nano,down,60,Conservative guidance sustains negative near-term sentiment; fundamentals still solid
+ADBE,2025-03-12,2025-03-19,crowd_25,gpt-5-nano,up,60,"Strong fundamentals (record revenue, ARR growth) may trigger a rebound as traders digest details"
+ADBE,2025-03-12,2025-03-27,crowd_25,gpt-5-nano,up,65,AI initiatives and reaffirmed long-term targets support upside potential
+ADBE,2025-03-12,2025-04-11,crowd_25,gpt-5-nano,up,70,Robust product ecosystem and AI roadmap provide multiple catalysts for sustainable gains
+ADBE,2025-03-12,2025-03-13,crowd_average,crowd_models,down,70.8,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1771)"
+ADBE,2025-03-12,2025-03-15,crowd_average,crowd_models,down,63.5,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1588)"
+ADBE,2025-03-12,2025-03-19,crowd_average,crowd_models,up,57.3,"Aggregated decision from 25 crowd models (up_sum=753, down_sum=680)"
+ADBE,2025-03-12,2025-03-27,crowd_average,crowd_models,up,60.2,"Aggregated decision from 25 crowd models (up_sum=1401, down_sum=105)"
+ADBE,2025-03-12,2025-04-11,crowd_average,crowd_models,up,65.5,"Aggregated decision from 25 crowd models (up_sum=1588, down_sum=50)"
+AMD,2024-02-21,2024-02-22,expert,gpt-5,up,54,"Positive AI narratives (MI300X traction, Azure adoption) and ecosystem wins (NPU monitoring, FSR3) with no major negatives."
+AMD,2024-02-21,2024-02-24,expert,gpt-5,up,57,Ongoing AI momentum and new partnerships (Wormhole using AMD accelerators) support sentiment short-term.
+AMD,2024-02-21,2024-02-28,expert,gpt-5,up,62,Post-earnings data center growth and MI300X ramp story likely to keep buyers engaged.
+AMD,2024-02-21,2024-03-07,expert,gpt-5,up,60,AI PC/NPU ecosystem progress and relative strength vs. Intel offset mixed gaming headlines.
+AMD,2024-02-21,2024-03-22,expert,gpt-5,up,63,Continued MI300X/customer adoption and AI demand tailwinds should underpin shares over a month.
+AMD,2024-02-21,2024-02-22,crowd_10,gpt-5-nano,up,72,"Bullish catalysts from AMD Ryzen 8000G/NPUs, Windows Task Manager AI monitoring, and Wormhole collaboration; AI adoption supports near-term AMD momentum."
+AMD,2024-02-21,2024-02-24,crowd_10,gpt-5-nano,up,68,Sustained AI/CPU/GPU product cycle momentum and data-center demand; multiple articles reinforce growth outlook.
+AMD,2024-02-21,2024-02-28,crowd_10,gpt-5-nano,up,70,"Mid-term catalysts like MI300X, Ryzen AI expansion, and enterprise FPGA/accelerator partnerships; strong AI narrative supports stock."
+AMD,2024-02-21,2024-03-07,crowd_10,gpt-5-nano,up,62,"Positive roadmap and AI traction, but competitive pressure and macro risks temper gains; overall constructive outlook."
+AMD,2024-02-21,2024-03-22,crowd_10,gpt-5-nano,up,60,"Longer-term AI growth remains promising with Ryzen AI and MI300X ramp, but valuations and macro headwinds add uncertainty."
+AMD,2024-02-21,2024-02-22,crowd_2,gpt-5-nano,up,72,"Strong near-term catalysts in the AMD-focused articles (Ryzen 8000G APUs, NPU monitoring in Windows Task Manager, Wormhole collaboration using AMD hardware, and FSR 3 adoption)."
+AMD,2024-02-21,2024-02-24,crowd_2,gpt-5-nano,up,68,Continued positive momentum from AI/ Ryzen AI developments and broadened hardware/software ecosystem improvements.
+AMD,2024-02-21,2024-02-28,crowd_2,gpt-5-nano,up,65,Sustained sentiment from AMD's AI hardware initiatives and partnerships; some competition noise but overall bullish tone.
+AMD,2024-02-21,2024-03-07,crowd_2,gpt-5-nano,up,60,"Longer-horizon catalysts (AI/data center push, upcoming Zen/ RDNA progress) support upside, though execution risk and macro noise exist."
+AMD,2024-02-21,2024-03-22,crowd_2,gpt-5-nano,up,55,"Broader AI/GPU momentum and Ryzen ecosystem strength point to gains, but market dynamics and rivals' moves could moderate the pace."
+AMD,2024-02-21,2024-02-22,crowd_9,gpt-5-nano,up,78,"Bullish AMD news: strong benchmarks for Ryzen 8000G, AI NPUs in Windows Task Manager, Wormhole collaboration, and overall AI market momentum."
+AMD,2024-02-21,2024-02-24,crowd_9,gpt-5-nano,up,72,Continued positive coverage and strategic partnerships; AI acceleration focus supports near-term upside.
+AMD,2024-02-21,2024-02-28,crowd_9,gpt-5-nano,up,70,Sustained optimistic sentiment across multiple sources with no clear negative catalysts in the data.
+AMD,2024-02-21,2024-03-07,crowd_9,gpt-5-nano,up,65,"Longer horizon upside driven by AI growth; some PC-market headwinds, but AI demand mitigates risk."
+AMD,2024-02-21,2024-03-22,crowd_9,gpt-5-nano,up,60,"Positive long-term catalysts exist, but potential sector cyclical and competitive risks justify a tempered upside outlook."
+AMD,2024-02-21,2024-02-22,crowd_5,gpt-5-nano,up,70,"AMD's AI/CPU advancement and partnerships (Ryzen 8000G, MI300X, Wormhole collaboration, NPU monitoring in Windows) suggest immediate positive sentiment; aligns with cautious investor view."
+AMD,2024-02-21,2024-02-24,crowd_5,gpt-5-nano,up,72,"Sustained AI growth narrative and competitive positioning versus Nvidia; multiple catalysts in the near term (AI acceleration, data center demand) support short-term upside."
+AMD,2024-02-21,2024-02-28,crowd_5,gpt-5-nano,up,75,"Ecosystem momentum across AI, blockchain interoperability, and software improvements (Task Manager NPU integration) may sustain a brief run in stock price; moderate risk given competition."
+AMD,2024-02-21,2024-03-07,crowd_5,gpt-5-nano,up,68,"Longer horizon catalysts remain (Ryzen AI adoption, MI300X, AMD’s AI roadmap), but risk from rivals and market volatility tempers confidence."
+AMD,2024-02-21,2024-03-22,crowd_5,gpt-5-nano,up,60,"Extended AI market growth and AMD’s expanding product lineup underpin potential gains; however, broader market conditions and competition could cap upside over a month."
+AMD,2024-02-21,2024-02-22,crowd_6,gpt-5-nano,up,70,"AMD sources show near-term positives: Ryzen 8000G benchmarks, AI NPUs in Windows Task Manager, and a stated AI chips sales forecast, plus partnerships (Wormhole) boosting AI/data-center momentum."
+AMD,2024-02-21,2024-02-24,crowd_6,gpt-5-nano,up,75,Continued positive signals from product refreshes and AI/accelerator initiatives; short-term catalysts supporting upside.
+AMD,2024-02-21,2024-02-28,crowd_6,gpt-5-nano,up,68,"Momentum from multiple AMD AI and processor updates, but broader market/competition risks could introduce volatility."
+AMD,2024-02-21,2024-03-07,crowd_6,gpt-5-nano,up,80,"Sustained AI demand, enterprise FPGA/AI accelerator deployments, and Ryzen AI roadmap suggest building earnings power over the medium term."
+AMD,2024-02-21,2024-03-22,crowd_6,gpt-5-nano,up,70,"Longer-term AI and gaming growth drivers remain favorable, though competition and market cycles keep upside tempered."
+AMD,2024-02-21,2024-02-22,crowd_4,gpt-5-nano,up,72,"Positive AMD AI/CPU catalysts (Ryzen 8000G, NPUs in Windows Task Manager, MI300X) and Wormhole collaboration anticipate near-term price support."
+AMD,2024-02-21,2024-02-24,crowd_4,gpt-5-nano,up,75,Ongoing media coverage highlighting AI leadership and ecosystem partnerships suggests momentum continues.
+AMD,2024-02-21,2024-02-28,crowd_4,gpt-5-nano,up,78,Extended AI-driven product refresh and partnerships keep sentiment bullish ahead of upgrades.
+AMD,2024-02-21,2024-03-07,crowd_4,gpt-5-nano,up,80,"Sustained AI growth thesis (Ryzen AI, Instinct MI300X) and cross-chain/FPGA collaborations point to longer-dated upside."
+AMD,2024-02-21,2024-03-22,crowd_4,gpt-5-nano,up,82,"Strong AI-driven fundamentals and product roadmap support longer-term upside, despite macro uncertainty."
+AMD,2024-02-21,2024-02-22,crowd_8,gpt-5-nano,up,78,"Numerous positive AMD AI/CPU news (Ryzen AI, NPUs in Task Manager, MI300X, Wormhole collaboration) suggest near-term bullish sentiment."
+AMD,2024-02-21,2024-02-24,crowd_8,gpt-5-nano,up,75,Sustained AI-driven catalysts and enterprise partnerships continue to support upside momentum in the short term.
+AMD,2024-02-21,2024-02-28,crowd_8,gpt-5-nano,up,70,"Mid-term catalysts ( Ryzen 8000/AI integration, data-center AI accelerators) remain supportive, though some volatility exists."
+AMD,2024-02-21,2024-03-07,crowd_8,gpt-5-nano,up,65,"Longer horizon AI demand and AMD roadmap keep upside potential, but risk from broader macro/Macro news persists."
+AMD,2024-02-21,2024-03-22,crowd_8,gpt-5-nano,up,60,"Sustained AI industry tailwinds and AMD's ongoing product/partnership momentum likely to support further gains, albeit with higher uncertainty."
+AMD,2024-02-21,2024-02-22,crowd_1,gpt-5-nano,up,75,"Bullish AMD AI/CPU catalysts (Ryzen 8000G, NPUs, MI300X) and enterprise partnerships (Wormhole) suggest near-term upside."
+AMD,2024-02-21,2024-02-24,crowd_1,gpt-5-nano,up,70,"Sustained momentum from AI deployments and Windows AI monitoring, despite ongoing GPU/CPU competition."
+AMD,2024-02-21,2024-02-28,crowd_1,gpt-5-nano,up,65,Continued coverage of AI roadmap and enterprise collaborations could keep stock moving higher in the short term.
+AMD,2024-02-21,2024-03-07,crowd_1,gpt-5-nano,up,60,"Longer-horizon catalysts (Zen 6/RDNA5 prospects, AI growth) may lift sentiment, though requires confirmation of execution."
+AMD,2024-02-21,2024-03-22,crowd_1,gpt-5-nano,up,55,"Broader AI/enterprise adoption supports upside, but market faces competition risk and potential cyclicality over the month."
+AMD,2024-02-21,2024-02-22,crowd_7,gpt-5-nano,up,72,"Bullish catalysts in the AMD ecosystem (Ryzen 8000G benchmarks, Ryzen AI integration, and AI-focused partnerships like Wormhole) suggest near-term upside."
+AMD,2024-02-21,2024-02-24,crowd_7,gpt-5-nano,up,78,"Ongoing AI adoption AND strong demand signals (Ryzen AI, MI300X data-center push, 50+ notebook designs with AI, and AI chip sales guidance) support short-term gains."
+AMD,2024-02-21,2024-02-28,crowd_7,gpt-5-nano,up,82,"Sustained momentum from AI and data-center initiatives, plus strategic moves (Windows NPU monitoring integration, AMD foundry openness) imply continued upside in the near term."
+AMD,2024-02-21,2024-03-07,crowd_7,gpt-5-nano,up,80,"Longer-horizon catalysts (RDNA5/Zen 6 rumblings, Wormhole collaboration, expanded AI roadmap) combined with channel growth suggest continued positive trajectory."
+AMD,2024-02-21,2024-03-22,crowd_7,gpt-5-nano,up,75,"Positive multi-quarter trajectory driven by AI/data-center demand and product roadmap; however, some volatility and competition risk keep the confidence moderate."
+AMD,2024-02-21,2024-02-22,crowd_3,gpt-5-nano,up,70,"AMD's AI roadmap (Ryzen AI, NPU monitoring in Windows Task Manager, MI300X in data center) and partnerships (Wormhole) suggest near-term positive catalysts."
+AMD,2024-02-21,2024-02-24,crowd_3,gpt-5-nano,up,68,Sustained AI product momentum and incremental partnerships; Nvidia competition acknowledged but AMD's AI ecosystem supports upside.
+AMD,2024-02-21,2024-02-28,crowd_3,gpt-5-nano,up,60,"Momentum persists with AI-driven growth, though upside may be tempered by market rotation and macro factors."
+AMD,2024-02-21,2024-03-07,crowd_3,gpt-5-nano,up,58,"Longer-horizon catalysts remain; still some risk of consolidation, but overall positive trajectory."
+AMD,2024-02-21,2024-03-22,crowd_3,gpt-5-nano,up,60,AI demand and enterprise-grade accelerators continue to support upside; some uncertainty remains but trend remains favorable.
+AMD,2024-02-21,2024-02-22,crowd_11,gpt-5-nano,up,60,"Positive catalysts from AMD AI/CPU/PMU features and partnerships may trigger near-term upside, though macro noise could cap immediate moves."
+AMD,2024-02-21,2024-02-24,crowd_11,gpt-5-nano,up,65,"Sustained news on Ryzen AI, MI300X data-center opportunities, and Wormhole collaboration supports short-term upside potential."
+AMD,2024-02-21,2024-02-28,crowd_11,gpt-5-nano,up,75,Multiple ongoing AI/accelerator initiatives and software integrations suggest continued positive momentum over a week.
+AMD,2024-02-21,2024-03-07,crowd_11,gpt-5-nano,up,82,"Strong longer-term catalysts in AI, data center demand, and ecosystem partnerships point to a durable uptrend, with some competition risk."
+AMD,2024-02-21,2024-03-22,crowd_11,gpt-5-nano,up,88,"Broader AI monetization potential (Instinct MI300X, Ryzen AI, FSR3 adoption, Windows integration) supports a robust multi-quarter upmove."
+AMD,2024-02-21,2024-02-22,crowd_14,gpt-5-nano,up,72,"Multiple bullish AMD AI/CPU news (Ryzen 8000G NPUs, Ryzen AI, Wormhole collaboration) suggesting near-term positive momentum."
+AMD,2024-02-21,2024-02-24,crowd_14,gpt-5-nano,up,78,Sustained positive tone across outlets; AI-centric catalysts and strong potential upside continue to feed momentum.
+AMD,2024-02-21,2024-02-28,crowd_14,gpt-5-nano,up,82,"Strategic partnerships and AI monitoring integrations imply growing demand and adoption, supporting a continued rise."
+AMD,2024-02-21,2024-03-07,crowd_14,gpt-5-nano,up,75,"Mid-term catalysts from Ryzen AI adoption and data-center AI chips (MI300X) point to upside, though broader market sentiment can introduce noise."
+AMD,2024-02-21,2024-03-22,crowd_14,gpt-5-nano,up,70,"Longer-term AI/CPU roadmap and Zen 6/Medusa leaks may sustain upside, but execution/market dynamics introduce risk over a month."
+AMD,2024-02-21,2024-02-22,crowd_12,gpt-5-nano,up,65," AMD's near-term catalysts (Ryzen 8000G, NPUs in Windows Task Manager, MI300X, Wormhole collaboration) could provide short-term upside amid positive sentiment toward AI/CPU leadership."
+AMD,2024-02-21,2024-02-24,crowd_12,gpt-5-nano,up,70,"Sustained AI/data-center demand signals and broad media coverage of AMD's AI roadmap support a continuing uptrend, though competition remains a risk."
+AMD,2024-02-21,2024-02-28,crowd_12,gpt-5-nano,up,70,"Momentum from product launches and strategic partnerships may persist into the week, reinforcing a positive fundamental bias despite broader market nerves."
+AMD,2024-02-21,2024-03-07,crowd_12,gpt-5-nano,up,75,"Mid-term upside supported by AI-driven growth (Ryzen AI, Instinct MI300X) and enterprise adoption; macro headwinds are the main offset."
+AMD,2024-02-21,2024-03-22,crowd_12,gpt-5-nano,up,75,"Longer-horizon AI/data-center demand and AMD's roadmap (NPU integrations, AI processors) offer meaningful potential; still subject to market volatility and competitive dynamics."
+AMD,2024-02-21,2024-02-22,crowd_15,gpt-5-nano,up,75,"Strong near-term positive sentiment from multiple AMD-driven catalysts in the dataset (Ryzen 8000G benchmarks, NPU monitoring in Windows Task Manager, Wormhole collaboration, and AI-focused upgrades)."
+AMD,2024-02-21,2024-02-24,crowd_15,gpt-5-nano,up,78,"Sustained positive coverage around AMD's AI/CPU roadmap and ecosystem integrations, supporting near-term upside potential amid ongoing competitive dynamics."
+AMD,2024-02-21,2024-02-28,crowd_15,gpt-5-nano,up,70,Continued momentum from AI-oriented product launches and partnerships could keep the stock bidirectional momentum in the short term.
+AMD,2024-02-21,2024-03-07,crowd_15,gpt-5-nano,up,65,"Longer-horizon drivers like Ryzen AI adoption and data-center AI accelerators (e.g., MI300X) point to growth, though broader market headwinds remain a consideration."
+AMD,2024-02-21,2024-03-22,crowd_15,gpt-5-nano,up,60,"Extended AI/compute ecosystem momentum supports upside potential, but price impact will depend on broader market conditions and execution validation over time."
+AMD,2024-02-21,2024-02-22,crowd_18,gpt-5-nano,up,70,"Positive catalysts for AMD: Ryzen 8000G/NPUs, Ryzen AI integration with Windows, and Wormhole collaboration leveraging AMD hardware suggest near-term upside potential."
+AMD,2024-02-21,2024-02-24,crowd_18,gpt-5-nano,up,65,"Momentum from AI-centric product roadmap and strategic partnerships could sustain short-term gains, though market noise and competition remain risks."
+AMD,2024-02-21,2024-02-28,crowd_18,gpt-5-nano,up,60,"Continued coverage of AMD's AI initiatives (MI300X, NPUs, Task Manager integration) and cross-chain collaboration may keep sentiment bullish, barring macro pullbacks."
+AMD,2024-02-21,2024-03-07,crowd_18,gpt-5-nano,up,55,"Longer horizon catalysts in AI and data-center growth support upside, but valuation and competitive dynamics introduce uncertainty over a two-week span."
+AMD,2024-02-21,2024-03-22,crowd_18,gpt-5-nano,up,50,"Overall bullish AI trajectory and product roadmap provide upside potential, yet broad market conditions and Nvidia's dominance present downside risk."
+AMD,2024-02-21,2024-02-22,crowd_17,gpt-5-nano,up,80,"Multiple near-term catalysts cited: Ryzen 8000G benchmarks show CPU uplift; AMD NPUs in Windows Task Manager; Wormhole collaboration leveraging AMD hardware signals accelerating AI/blockchain initiatives, likely generating positive sentiment for AMD stock."
+AMD,2024-02-21,2024-02-24,crowd_17,gpt-5-nano,up,75,"Sustained positive coverage around AMD's AI roadmap (Ryzen AI, Instinct MI300X) and enterprise partnerships; potential headwinds from competitors noted, but overall momentum remains bullish in the short term."
+AMD,2024-02-21,2024-02-28,crowd_17,gpt-5-nano,up,70,"Continued optimism from AI/product ecosystem expansion and strategic collaborations; risk of profit-taking or macro-driven volatility exists, but catalysts support continued upside."
+AMD,2024-02-21,2024-03-07,crowd_17,gpt-5-nano,up,65,"Longer-horizon AI deployment, data-center demand, and cross-chain/FPGA accelerators provide fundamental support; market may begin pricing in growth, though competition and broader market conditions could temper gains."
+AMD,2024-02-21,2024-03-22,crowd_17,gpt-5-nano,up,60,"Structural tailwinds from AI-enabled CPUs/GPUs and enterprise partnerships point to sustained upside; however, longer-term valuation, competition, and macro factors could moderate returns."
+AMD,2024-02-21,2024-02-22,crowd_13,gpt-5-nano,up,72,"Multiple AMD-positive catalysts on 2024-02-21 data (Ryzen 8000G, AI NPUs, Wormhole collaboration) suggesting near-term bullish sentiment."
+AMD,2024-02-21,2024-02-24,crowd_13,gpt-5-nano,up,78,"Ongoing coverage of Ryzen AI adoption, MI300X data-center momentum, and Windows Task Manager NPU monitoring signaling AI roadmap maturity."
+AMD,2024-02-21,2024-02-28,crowd_13,gpt-5-nano,up,70,"Sustained AI/data-center growth narrative positions AMD to compete in AI accelerators, reinforcing upside potential."
+AMD,2024-02-21,2024-03-07,crowd_13,gpt-5-nano,up,65,"Longer-term catalysts (Ryzen AI, Instinct MI300X deployments) point to continued upside, though macro/peer dynamics add some risk."
+AMD,2024-02-21,2024-03-22,crowd_13,gpt-5-nano,up,68,"Prolonged AI infrastructure demand and broad AMD ecosystem initiatives (Wormhole, NPUs) support a durable uptrend, with manageable downside risk."
+AMD,2024-02-21,2024-02-22,crowd_16,gpt-5-nano,up,70,AMD-positive catalysts in AI and interoperability (Wormhole AMD FPGA accelerators; Ryzen 8040 NPUs in Windows Task Manager) and ongoing AI momentum in the ecosystem.
+AMD,2024-02-21,2024-02-24,crowd_16,gpt-5-nano,up,75,Expanded AI angle with Ryzen AI and enterprise adoption; potential spillover from AI stock narratives; no clear negative catalysts evident in the provided data.
+AMD,2024-02-21,2024-02-28,crowd_16,gpt-5-nano,up,80,"Sustained AI-driven catalysts (MI300X, Ryzen AI), plus Wormhole collaboration and FSR3 ecosystem growth support a positive momentum path."
+AMD,2024-02-21,2024-03-07,crowd_16,gpt-5-nano,up,78,"Continued AI/compute momentum and partnerships; however, earnings/market-cycle dynamics and competition remain potential overhead risks."
+AMD,2024-02-21,2024-03-22,crowd_16,gpt-5-nano,up,72,"Longer-term AI/CPU/GPU roadmap and ecosystem expansion offer upside, but macro concerns and competitive dynamics could temper gains over a longer horizon."
+AMD,2024-02-21,2024-02-22,crowd_19,gpt-5-nano,up,78,"Multiple bullish AMD catalysts in the data: Ryzen 8000G benchmarks and AI NPUs in Windows Task Manager, Wormhole collaboration using AMD FPGA accelerators, and broad AI/GPU momentum."
+AMD,2024-02-21,2024-02-24,crowd_19,gpt-5-nano,up,75,Continued AI and compute workloads support for AMD hardware indicated by partnerships and product roadmaps; near-term positives likely to persist.
+AMD,2024-02-21,2024-02-28,crowd_19,gpt-5-nano,up,70,"Sustained growth drivers (AI accelerators, data center AI chips, cross-chain hardware collaboration) point to continued strength, though competition remains a factor."
+AMD,2024-02-21,2024-03-07,crowd_19,gpt-5-nano,up,65,Longer horizon optimism from AI adoption and Ryzen AI momentum; macro/sector cycles could introduce volatility but underlying catalysts remain supportive.
+AMD,2024-02-21,2024-03-22,crowd_19,gpt-5-nano,up,60,"Positive long-term trajectory from AI deployments and AMD ecosystem expansions, but price path may be tempered by competitive dynamics and broader market risk."
+AMD,2024-02-21,2024-02-22,crowd_20,gpt-5-nano,up,78,"Multiple bullish AMD catalysts in the data: Ryzen 8000G/APUs, Ryzen AI NPUs in Windows Task Manager, Wormhole collaboration using AMD hardware, and strong AI/data-center momentum."
+AMD,2024-02-21,2024-02-24,crowd_20,gpt-5-nano,up,75,"Near-term catalysts persist (AI acceleration, enterprise partnerships, and hardware integration) likely keeping sentiment positive."
+AMD,2024-02-21,2024-02-28,crowd_20,gpt-5-nano,up,70,Sustained AI/data-center momentum and competitive positioning against rivals; risk from broader market noise remains.
+AMD,2024-02-21,2024-03-07,crowd_20,gpt-5-nano,up,60,Longer-horizon growth from Ryzen AI and Instinct; however macro headwinds and PC market pressures could temper gains.
+AMD,2024-02-21,2024-03-22,crowd_20,gpt-5-nano,up,65,"AI-driven growth potential and ongoing partnerships point to upside, but execution risk and broader market conditions could influence magnitude."
+AMD,2024-02-21,2024-02-22,crowd_22,gpt-5-nano,up,70,"AMD's Ryzen 8000G launch, NPU monitoring in Windows Task Manager, and Wormhole collaboration point to positive near-term catalysts and improved AI/compute positioning."
+AMD,2024-02-21,2024-02-24,crowd_22,gpt-5-nano,up,72,Sustained AI/compute momentum across multiple AMD-driven initiatives and partnerships; continued positive sentiment from industry coverage could sustain a near-term move.
+AMD,2024-02-21,2024-02-28,crowd_22,gpt-5-nano,up,65,"Broader AI ecosystem push and partner programs support gains, but risk of profit-taking or competition could temper momentum beyond a week."
+AMD,2024-02-21,2024-03-07,crowd_22,gpt-5-nano,up,55,"Longer-term AI chip cycle continues to be favorable, yet more variables (macro, competition, valuations) increase uncertainty over the mid-term horizon."
+AMD,2024-02-21,2024-03-22,crowd_22,gpt-5-nano,up,50,"Positive AI/compute narrative remains, but price trajectory will depend on broader market conditions and new product/partnership news."
+AMD,2024-02-21,2024-02-22,crowd_21,gpt-5-nano,up,75,AMD catalysts from Ryzen 8000G benchmarks and STAPM fix plus AI integration signals immediate positive sentiment; Wormhole collaboration with AMD accelerators highlights AI edge.
+AMD,2024-02-21,2024-02-24,crowd_21,gpt-5-nano,up,72,Ongoing coverage of Ryzen AI and NPUs in Windows Task Manager; AMD collaboration with Wormhole and AI accelerators signals near term momentum.
+AMD,2024-02-21,2024-02-28,crowd_21,gpt-5-nano,up,70,Sustained AI product roadmap and partnerships; positive comparisons against Nvidia; potential near term price action.
+AMD,2024-02-21,2024-03-07,crowd_21,gpt-5-nano,up,65,Longer term AI strategy and data center growth; competition risk but AMD positioned for AI era.
+AMD,2024-02-21,2024-03-22,crowd_21,gpt-5-nano,up,60,AI market tailwinds and Ryzen AI adoption; macro risks exist but upside remains supported by AI hardware and software ecosystem developments.
+AMD,2024-02-21,2024-02-22,crowd_23,gpt-5-nano,up,68,"AMD's AI-focused catalysts (Ryzen AI, NPUs, Windows task manager integration) and partnerships (Wormhole) could lift sentiment short-term despite mixed macro."
+AMD,2024-02-21,2024-02-24,crowd_23,gpt-5-nano,up,70,Continued AI momentum and favorable coverage of AI accelerators and enterprise deployments; near-term upside remains plausible.
+AMD,2024-02-21,2024-02-28,crowd_23,gpt-5-nano,up,72,"Positive AI trajectory (MI300X, Ryzen AI) and ecosystem momentum may drive additional short- to mid-term gains."
+AMD,2024-02-21,2024-03-07,crowd_23,gpt-5-nano,up,75,Sustained demand for AI-enabled CPUs/GPUs and channel partnerships suggest a continuing uptrend as AI adoption broadens.
+AMD,2024-02-21,2024-03-22,crowd_23,gpt-5-nano,up,78,"Longer-term AMD AI roadmap and enterprise deployments imply meaningful upside, even if broader macro conditions remain pessimistic."
+AMD,2024-02-21,2024-02-22,crowd_25,gpt-5-nano,up,70,"Bullish near-term sentiment from AMD AI initiatives, including Ryzen 8000G APUs with NPUs and Windows task manager integration, plus positive benchmarks and AI-focused partnerships."
+AMD,2024-02-21,2024-02-24,crowd_25,gpt-5-nano,up,75,"Continued AI/compute momentum with initiatives like Wormhole collaboration using AMD FPGA accelerators and strong data-center AI prospects, supporting upside in the short term."
+AMD,2024-02-21,2024-02-28,crowd_25,gpt-5-nano,up,78,"Sustained demand for AI-enabled products (Ryzen AI, NPUs) and ongoing enterprise/channel momentum suggest the trend persists into the week ahead."
+AMD,2024-02-21,2024-03-07,crowd_25,gpt-5-nano,up,80,"Longer-term AI TAM growth expectations (e.g., Lisa Su citing AI market potential well over $400B by 2028) and AMD’s leadership in AI acceleration support a stronger earnings trajectory."
+AMD,2024-02-21,2024-03-22,crowd_25,gpt-5-nano,up,75,"Structural AI hardware-software integration and potential architectural progress (Zen 5/6 leaks) could sustain AMD's competitive edge, keeping the stock bullish over a month."
+AMD,2024-02-21,2024-02-22,crowd_24,gpt-5-nano,up,72,"Bullish AI/NPUs news and partnerships for AMD (Ryzen 8040 NPUs in Task Manager, Wormhole collaboration, Ryzen AI roadmap) create near-term upside."
+AMD,2024-02-21,2024-02-24,crowd_24,gpt-5-nano,up,68,Sustained AI momentum and data-center accelerators (MI300X) plus broad software/upscaling (FSR 3) catalysts support continued upside.
+AMD,2024-02-21,2024-02-28,crowd_24,gpt-5-nano,up,60,Positive fundamental catalysts but ongoing competition with Nvidia and market volatility could temper gains in the short term.
+AMD,2024-02-21,2024-03-07,crowd_24,gpt-5-nano,up,55,Longer horizon upside driven by AI market growth and enterprise adoption; but risk of sector rotation and macro headwinds.
+AMD,2024-02-21,2024-03-22,crowd_24,gpt-5-nano,up,50,"AI-driven demand tailwinds could sustain AMD, but macro risks and earnings expectations introduce uncertainty; neutral-to-bullish longer term."
+AMD,2024-02-21,2024-02-22,crowd_average,crowd_models,up,72.2,"Aggregated decision from 25 crowd models (up_sum=1804, down_sum=0)"
+AMD,2024-02-21,2024-02-24,crowd_average,crowd_models,up,72.5,"Aggregated decision from 25 crowd models (up_sum=1812, down_sum=0)"
+AMD,2024-02-21,2024-02-28,crowd_average,crowd_models,up,70.6,"Aggregated decision from 25 crowd models (up_sum=1765, down_sum=0)"
+AMD,2024-02-21,2024-03-07,crowd_average,crowd_models,up,67.7,"Aggregated decision from 25 crowd models (up_sum=1693, down_sum=0)"
+AMD,2024-02-21,2024-03-22,crowd_average,crowd_models,up,64.7,"Aggregated decision from 25 crowd models (up_sum=1618, down_sum=0)"
+AMD,2024-07-16,2024-07-17,expert,gpt-5,up,60,"Positive sentiment from Zen 5 efficiency claims, AM5 support extension, CUDA-on-AMD tool, and AI PC design wins"
+AMD,2024-07-16,2024-07-19,expert,gpt-5,up,62,"Ongoing buzz on Ryzen 9000/AI 300, ecosystem gains (Blender, Linux SEV-SNP), and Prime Day-driven demand"
+AMD,2024-07-16,2024-07-23,expert,gpt-5,up,58,Pre-earnings/launch anticipation and strong product/roadmap news outweigh limited negatives
+AMD,2024-07-16,2024-07-31,expert,gpt-5,down,55,Earnings/launch window adds sell-the-news risk and high expectations; discounting may raise margin concerns
+AMD,2024-07-16,2024-08-15,expert,gpt-5,up,65,"Post-earnings clarity plus Ryzen 9000 availability, AI laptop ramps, Silo AI acquisition and MI300 momentum support trend"
+AMD,2024-07-16,2024-07-17,crowd_10,gpt-5-nano,up,60,Positive near-term catalysts: upcoming AMD Zen 5 launch and Q2 results preview; multiple articles highlight efficiency gains and AM5 longevity.
+AMD,2024-07-16,2024-07-19,crowd_10,gpt-5-nano,up,65,Continued optimism around Ryzen 9000/Zen 5 roadmap and AM5 platform support through 2027 could reinforce buying interest.
+AMD,2024-07-16,2024-07-23,crowd_10,gpt-5-nano,up,70,Launch momentum expected as Zen 5 details surface; AI features and improved efficiency cited in multiple pieces may attract investors.
+AMD,2024-07-16,2024-07-31,crowd_10,gpt-5-nano,up,75,Zen 5/Granite Ridge rollout approaching; sustained positive sentiment from roadmap confirmations and anticipated financial results could drive further gains.
+AMD,2024-07-16,2024-08-15,crowd_10,gpt-5-nano,up,80,"Longer-term catalysts remain robust: Zen 6/7 roadmap, AM5 commitment through 2027, and AI-focused product lines suggest durable upside beyond the near term."
+AMD,2024-07-16,2024-07-17,crowd_1,gpt-5-nano,up,65,"Imminent Ryzen 9000/Zen 5 launch and strong roadmap (AM5 longevity, Zen 6/6C) create near-term bullish sentiment."
+AMD,2024-07-16,2024-07-19,crowd_1,gpt-5-nano,up,60,"Continued positive sentiment from roadmap details and notable efficiency gains, sustaining upside before/around launch."
+AMD,2024-07-16,2024-07-23,crowd_1,gpt-5-nano,up,60,"Multiple articles highlight competitive Ryzen AI/CPU advancements and ecosystem momentum, supporting further short-term gains."
+AMD,2024-07-16,2024-07-31,crowd_1,gpt-5-nano,up,55,"Launch catalysts may trigger initial upside, though some profit-taking risk exists if results/news temper expectations."
+AMD,2024-07-16,2024-08-15,crowd_1,gpt-5-nano,up,50,"Longer-term optimism from Zen 6/AM5 roadmap and AI integration, but execution risk and competition warrant cautious stance."
+AMD,2024-07-16,2024-07-17,crowd_4,gpt-5-nano,up,70,"Near-term catalysts: Zen 5/AM5 launch window, Ryzen 9000, and Q2 results due; bullish signals."
+AMD,2024-07-16,2024-07-19,crowd_4,gpt-5-nano,up,72,Roadmap momentum with Zen 6/7 in development and AM5 longevity; AI/servers integration noted.
+AMD,2024-07-16,2024-07-23,crowd_4,gpt-5-nano,up,78,Launch window approaching; positive coverage of Ryzen 9000/Zen 5 and AM5 ecosystem; potential buy-the-news move.
+AMD,2024-07-16,2024-07-31,crowd_4,gpt-5-nano,up,72,Sustained optimism from roadmap updates and AM5/Zen 6 signals; earnings expectations may reinforce upside.
+AMD,2024-07-16,2024-08-15,crowd_4,gpt-5-nano,up,65,"Longer-term catalysts from Zen 6/6C and AI-focused Ryzen/EPYC, but macro and competition risks temper gains."
+AMD,2024-07-16,2024-07-17,crowd_6,gpt-5-nano,up,68,"Positive AMD roadmap updates (Zen 5, AM5 lifespan to 2027) and expectations ahead of Q2 results suggest near-term upside."
+AMD,2024-07-16,2024-07-19,crowd_6,gpt-5-nano,up,72,"Further details on Zen 5 and Strix Point AI APUs, plus extended AM5 support signal durable demand and potential earnings strength."
+AMD,2024-07-16,2024-07-23,crowd_6,gpt-5-nano,up,78,"Sustained bullish sentiment from roadmap milestones (Zen 6/7, AM5 longevity) and AI-focused product lineup; earnings on 7/30 could act as a catalyst."
+AMD,2024-07-16,2024-07-31,crowd_6,gpt-5-nano,up,82,"Longer-term catalysts: Zen 6/7 planning, AM5 ecosystem expansion, Ryzen AI integration, and server/enterprise roadmap; multiple positive signals in the data."
+AMD,2024-07-16,2024-08-15,crowd_6,gpt-5-nano,up,85,Strong multi-year roadmap and product cadence reduce risk; AMD poised to benefit from AI integration and continued PC/server demand as Zen 5/6/7 platforms roll out.
+AMD,2024-07-16,2024-07-17,crowd_7,gpt-5-nano,up,60,Positive sentiment from AMD Zen 5/AM5 roadmap coverage and anticipation of upcoming earnings; near-term catalysts support modest upside.
+AMD,2024-07-16,2024-07-19,crowd_7,gpt-5-nano,up,65,"Continued bullish coverage on Ryzen 9000/Zen 5, efficiency gains, and AM5 longevity; multiple catalysts ahead bolster short-term upside."
+AMD,2024-07-16,2024-07-23,crowd_7,gpt-5-nano,up,70,"Roadmap expansion (Zen 6, AM5 through 2027) plus nearing earnings event may lift investor sentiment and push prices higher."
+AMD,2024-07-16,2024-07-31,crowd_7,gpt-5-nano,up,65,"Launch momentum for Ryzen 9000/Zen 5 could drive gains; some risk from price sensitivity and execution, but outlook remains positive."
+AMD,2024-07-16,2024-08-15,crowd_7,gpt-5-nano,up,55,"Longer-term catalysts from new architectures; outcomes depend on earnings and execution, but structural bullish factors keep the bias upward."
+AMD,2024-07-16,2024-07-17,crowd_9,gpt-5-nano,up,72,Upcoming Zen 5 Granite Ridge/AM5 longevity and Q2 results provide near-term catalysts; multiple articles point to a strong product cycle.
+AMD,2024-07-16,2024-07-19,crowd_9,gpt-5-nano,up,75,"Positive sentiment around Ryzen 9000 launch, AM5 support through 2027+, and performance gains from Curve Shaper/Zen 5; no adverse news in the dataset."
+AMD,2024-07-16,2024-07-23,crowd_9,gpt-5-nano,up,70,Zen 5/Strix Point rollout and AI-focused Ryzen 300 series driving expectations; market likely to react positively ahead of earnings.
+AMD,2024-07-16,2024-07-31,crowd_9,gpt-5-nano,up,60,Launch momentum continues with early favorable reviews; potential profit-taking risk after initial run.
+AMD,2024-07-16,2024-08-15,crowd_9,gpt-5-nano,up,55,"Longer-term catalysts (Zen 6/7 roadmap, AM5 sustainability) support upside, though risk of consolidation exists."
+AMD,2024-07-16,2024-07-17,crowd_3,gpt-5-nano,up,65,Positive near-term sentiment from AMD's Zen 5/AM5 roadmap and upcoming Q2 results; minor near-term noise from price cuts and mixed coverage.
+AMD,2024-07-16,2024-07-19,crowd_3,gpt-5-nano,up,70," continued momentum from OEM partnerships (e.g., HP OmniBook Ultra) and AI-focused Ryzen 9000/Strix Point details supporting growth potential."
+AMD,2024-07-16,2024-07-23,crowd_3,gpt-5-nano,up,75,"Clear long-term roadmap (AM5 through 2027+, Zen 6/7 in development) and AI/enterprise enable AMD to sustain positive stock momentum despite competition."
+AMD,2024-07-16,2024-07-31,crowd_3,gpt-5-nano,up,85,Zen 5 launch window plus expanding AI/machine-learning capabilities and data-center uptake; earnings cadence around this period provides catalyst.
+AMD,2024-07-16,2024-08-15,crowd_3,gpt-5-nano,up,90,"Two-gen roadmap (Zen 5/6/7) with AM5 ecosystem, AI acceleration, and enterprise adoption supports sustained upside; macro noise likely to be offset by durable growth signals."
+AMD,2024-07-16,2024-07-17,crowd_2,gpt-5-nano,up,70,"Near-term catalysts ahead: AMD Ryzen 9000 launch window (July 31) and AM5 socket longevity through 2027, plus roadmap confirmations; positive sentiment from multiple sources."
+AMD,2024-07-16,2024-07-19,crowd_2,gpt-5-nano,up,75,"Continued bullish catalysts from Zen 5/6/7 roadmap details and confirmed die sizes, reinforcing a durable/platform-long growth narrative."
+AMD,2024-07-16,2024-07-23,crowd_2,gpt-5-nano,up,78,"Sustained optimism around Ryzen 9000 lineup, expanded AI/product integration prospects, and ongoing AM5 ecosystem momentum support a durable positive bias."
+AMD,2024-07-16,2024-07-31,crowd_2,gpt-5-nano,up,80,Mid-cycle earnings and cadence of product launches combined with long-term socket life reduce risk and sustain upside expectations.
+AMD,2024-07-16,2024-08-15,crowd_2,gpt-5-nano,up,85,"Longer-term roadmap (Zen 6/6C, Zen 7 in development) and AM5 commitment through 2027+, plus AI/enterprise momentum, point to meaningful upside potential over the quarter and beyond."
+AMD,2024-07-16,2024-07-17,crowd_5,gpt-5-nano,up,65,Positive coverage of AMD's Zen 5/AM5 roadmap and efficiency gains suggests near-term bullish sentiment.
+AMD,2024-07-16,2024-07-19,crowd_5,gpt-5-nano,up,70,"Continued media focus on Ryzen 9000, AM5 longevity, and AI-driven capabilities supports sustained up move."
+AMD,2024-07-16,2024-07-23,crowd_5,gpt-5-nano,up,60,Pre-earnings optimism ahead of Q2 results; potential for a positive surprise but with typical pre-earnings volatility.
+AMD,2024-07-16,2024-07-31,crowd_5,gpt-5-nano,up,55,"Zen 5 launch momentum plus the upcoming quarterly results could drive further upside, though mixed signals exist."
+AMD,2024-07-16,2024-08-15,crowd_5,gpt-5-nano,up,60,"AI/EPYC momentum and ongoing product cadence support longer-term upside, subject to earnings reaction."
+AMD,2024-07-16,2024-07-17,crowd_8,gpt-5-nano,up,70,Zen 5/AM5 관련 긍정적 기사와 다가오는 Ryzen 9000 출시 기대감으로 단기 낙관.
+AMD,2024-07-16,2024-07-19,crowd_8,gpt-5-nano,up,75,로드맵의 지속적 긍정 신호와 향후 실적 발표 전후 기대감이 유지.
+AMD,2024-07-16,2024-07-23,crowd_8,gpt-5-nano,up,80,출시 직전 모멘텀과 투자자 관심 증가; 추가 호재 발표 가능성으로 상승 여력.
+AMD,2024-07-16,2024-07-31,crowd_8,gpt-5-nano,up,85,출시 직후 초기 반응 및 2027년 AM5 유지 등 장기 로드맷의 신뢰성 강화로 중기 상승 가능.
+AMD,2024-07-16,2024-08-15,crowd_8,gpt-5-nano,up,80,로드맷과 AM5 지속 지원의 구조적 긍정 요인 지속되나 밸류에이션 리스크는 남아 있음.
+AMD,2024-07-16,2024-07-17,crowd_12,gpt-5-nano,up,72,Positive near-term catalysts: AMD Zen 5/AM5 roadmap and efficiency gains suggest immediate bullish sentiment.
+AMD,2024-07-16,2024-07-19,crowd_12,gpt-5-nano,up,68,"Continued optimism from long-term roadmap (AM5 longevity to 2027, Zen 6/Morpheus) and early performance previews."
+AMD,2024-07-16,2024-07-23,crowd_12,gpt-5-nano,up,65,Near-term catalysts ahead: Ryzen 9000/Zen 5 features and upcoming updates maintain positive momentum.
+AMD,2024-07-16,2024-07-31,crowd_12,gpt-5-nano,up,75,Ryzen 9000 launch/Zen 5 rollout around end of month underway—strong near-term upside potential.
+AMD,2024-07-16,2024-08-15,crowd_12,gpt-5-nano,up,70,Sustained demand for AM5 ecosystem and AI/compute momentum; longer-term catalysts remain supportive.
+AMD,2024-07-16,2024-07-17,crowd_14,gpt-5-nano,up,70,Near-term catalysts include AMD's slated Q2 results and the Zen 5/AM5 roadmap with expected Ryzen 9000 launch soon.
+AMD,2024-07-16,2024-07-19,crowd_14,gpt-5-nano,up,75,Continued bullish coverage on AMD's roadmap (Zen 6/AM5 longevity) and upcoming product launches support upside.
+AMD,2024-07-16,2024-07-23,crowd_14,gpt-5-nano,up,78,Sustained momentum from new architectures and AI-oriented Ryzen AI 300 series; ecosystem benefits may lift sentiment.
+AMD,2024-07-16,2024-07-31,crowd_14,gpt-5-nano,up,85,Ryzen 9000 launch (late July) and AM5 roadmap confirmation likely to drive positive re-rating on improved efficiency and higher ASPs.
+AMD,2024-07-16,2024-08-15,crowd_14,gpt-5-nano,up,78,"Post-launch demand and ongoing AMD roadmap (Zen 6/Zen 6c, EPYC growth) support upside, though macro volatility remains a risk."
+AMD,2024-07-16,2024-07-17,crowd_18,gpt-5-nano,up,70,"Positive near-term catalysts: upcoming Ryzen 9000/Zen 5 launch, AM5 longevity to 2027, AI-focused products and investor attention ahead of Q2 results."
+AMD,2024-07-16,2024-07-19,crowd_18,gpt-5-nano,up,75,"Sustained optimism from roadmap clarity (Zen 5/6/7, AM5 support) and AI/enterprise announcements; earnings preview supportive."
+AMD,2024-07-16,2024-07-23,crowd_18,gpt-5-nano,up,80,Zen 5 launch around July 31 boosts sentiment; Ryzen AI and 55 TOPS NPU enhances AI narrative; continued product pipeline.
+AMD,2024-07-16,2024-07-31,crowd_18,gpt-5-nano,up,75,"Longer-term roadmap (Zen 6, 6c, 7) and AM5 ecosystem durability support upside; potential earnings beat could lift price."
+AMD,2024-07-16,2024-08-15,crowd_18,gpt-5-nano,up,60,Solid multi-year roadmap and AI integration; risk of competition and macro factors lowers confidence somewhat.
+AMD,2024-07-16,2024-07-17,crowd_15,gpt-5-nano,up,72,"Positive AMD catalysts in the news: Zen 5/Strix Point, AM5 socket longevity into 2027, and upcoming Ryzen 9000 launch; near-term bullish sentiment."
+AMD,2024-07-16,2024-07-19,crowd_15,gpt-5-nano,up,75,Earnings date approaching (fiscal Q2 2024 on July 30) plus strong roadmap coverage support upside expectations.
+AMD,2024-07-16,2024-07-23,crowd_15,gpt-5-nano,up,78,"Sustained momentum from AMD's Zen 5/Zen 6 roadmap, AM5 ecosystem expansion, and AI-focused product lines discussed in multiple articles."
+AMD,2024-07-16,2024-07-31,crowd_15,gpt-5-nano,up,80,"If Q2 results beat expectations or guide positively, catalysts from next-gen architectures and continued platform support could sustain upside."
+AMD,2024-07-16,2024-08-15,crowd_15,gpt-5-nano,up,82,"Longer-term drivers include Zen 6/6C/7 development, AM5 longevity to 2027+, and expanded AI processing focus, supporting a positive trend beyond near-term volatility."
+AMD,2024-07-16,2024-07-17,crowd_13,gpt-5-nano,up,72,Positive AMD Zen 5/AM5 roadmap and near-term catalysts (Ryzen 9000 launch and AM5 longevity).
+AMD,2024-07-16,2024-07-19,crowd_13,gpt-5-nano,up,78,Ongoing favorable coverage of Zen 5 efficiency and AM5 ecosystem expansion; earnings event later this month could reinforce positives.
+AMD,2024-07-16,2024-07-23,crowd_13,gpt-5-nano,up,70,Bullish sentiment from multiple articles about Zen 5/Strix Point and AI-oriented Ryzen lines; moderate risk from market noise.
+AMD,2024-07-16,2024-07-31,crowd_13,gpt-5-nano,up,65,Momentum ahead of Ryzen 9000 launch and roadmap confirmations; earnings risk remains but catalysts are positive.
+AMD,2024-07-16,2024-08-15,crowd_13,gpt-5-nano,up,60,"Longer-term catalysts like Zen 6/AM5 longevity support; valuations may compress if market turns, but fundamentals look supportive."
+AMD,2024-07-16,2024-07-17,crowd_16,gpt-5-nano,up,72,"Positive near-term catalysts for AMD (Zen 5, AM5 platform longevity, Ryzen 9000 details, AI/mobile/desktop synergy) and ongoing positive coverage point to upward pressure in the next day."
+AMD,2024-07-16,2024-07-19,crowd_16,gpt-5-nano,up,75,"Continued rollout news around Zen 5/Strix Point, AM5 longevity through 2027+, and AI-oriented product momentum reinforces a favorable short-term trajectory."
+AMD,2024-07-16,2024-07-23,crowd_16,gpt-5-nano,up,78,Ryzen 9000 launch window approaching (July 31) with price/feature disclosures and positive chipset updates; likely additional investor enthusiasm ahead of the event.
+AMD,2024-07-16,2024-07-31,crowd_16,gpt-5-nano,up,82,"Longer-horizon catalysts strengthen: Zen 6/Morpheus roadmap, increased interconnects, and sustained AM5 support plus AI acceleration position AMD well for multiple product cycles."
+AMD,2024-07-16,2024-08-15,crowd_16,gpt-5-nano,up,85,"Broader positive narrative from AMD’s ongoing architectural roadmap (Zen 5/6/7), AI integration, and enterprise/server trajectory, despite macro headwinds; fundamentals support a sustained up move."
+AMD,2024-07-16,2024-07-17,crowd_20,gpt-5-nano,up,65,"Multiple AMD-forward-looking articles highlight Zen 5/AM5 roadmap, efficiency gains, and near-term catalysts (Zen 5 launch and earnings setup), suggesting positive intraday momentum."
+AMD,2024-07-16,2024-07-19,crowd_20,gpt-5-nano,up,70,"Continued positive sentiment from coverage of Ryzen 9000/Zen 5, AM5 longevity to 2027, and AI-focused improvements; likely sustained short-term upside amid anticipation."
+AMD,2024-07-16,2024-07-23,crowd_20,gpt-5-nano,up,75,Close proximity to Zen 5 Granite Ridge/Strix Point launch and ongoing roadmap confirmations; expectations of strong product cadence and efficiency gains support near-term upside.
+AMD,2024-07-16,2024-07-31,crowd_20,gpt-5-nano,up,85,Zen 5 launch window coincides with renewed investor attention and potential hardware/AI product wins; catalysts suggest material positive price pressure in the midterm.
+AMD,2024-07-16,2024-08-15,crowd_20,gpt-5-nano,up,70,"Sustained positive trajectory from AMD’s roadmap (Zen 5/6/AM5 longevity) and AI-oriented product strategies; some risk of profit-taking or broader market rotation, but long-run catalysts remain supportive."
+AMD,2024-07-16,2024-07-17,crowd_19,gpt-5-nano,up,65,"Near-term catalysts from Zen 5 launch, AM5 socket longevity, and positive AMD roadmap coverage ahead of upcoming earnings."
+AMD,2024-07-16,2024-07-19,crowd_19,gpt-5-nano,up,70,Sustained positive sentiment as Ryzen 9000 launch progresses and Q2 2024 results release approaches; multiple favorable product milestones.
+AMD,2024-07-16,2024-07-23,crowd_19,gpt-5-nano,up,75,"Broader positive signals from AMD's Zen 6 roadmap hints, continued AM5 support through 2027, and expanding AI-focused lineup."
+AMD,2024-07-16,2024-07-31,crowd_19,gpt-5-nano,up,80,"Two-week horizon captures ongoing upgrades in Ryzen AI/EPYC ecosystems and enterprise adoption, reinforcing bullish fundamentals."
+AMD,2024-07-16,2024-08-15,crowd_19,gpt-5-nano,up,85,"Longer-term catalysts remain strong: Zen 6/6C, AM5 longevity, and AI-enabled product cadence could sustain upside despite macro noise."
+AMD,2024-07-16,2024-07-17,crowd_17,gpt-5-nano,up,68,"Multiple positive AMD-related news items (Zen 5/AM5 roadmap, efficiency gains, AI initiatives) suggest near-term upside."
+AMD,2024-07-16,2024-07-19,crowd_17,gpt-5-nano,up,72,Ongoing bullish coverage on Ryzen 9000/Zen 6 and SCALE for AMD GPUs reinforces positive sentiment.
+AMD,2024-07-16,2024-07-23,crowd_17,gpt-5-nano,up,65,"Momentum from favorable announcements persists, though earnings events ahead could introduce volatility."
+AMD,2024-07-16,2024-07-31,crowd_17,gpt-5-nano,up,58,"Roadmap and AI momentum remain supportive, but closer earnings visibility increases uncertainty."
+AMD,2024-07-16,2024-08-15,crowd_17,gpt-5-nano,up,60,Potential positive earnings and continued AI/compute momentum; outcome depends on quarterly results.
+AMD,2024-07-16,2024-07-17,crowd_11,gpt-5-nano,up,70,Near-term catalysts include AMD's Zen 5 launch window and multi-source coverage highlighting efficiency gains and AM5 longevity; upcoming Q2 2024 results could reinforce positive sentiment.
+AMD,2024-07-16,2024-07-19,crowd_11,gpt-5-nano,up,75,"Sustained positive narrative around Zen 5/Strix Point, efficiency improvements, and roadmap hints (Zen 6/7) support a bullish outlook in the short term."
+AMD,2024-07-16,2024-07-23,crowd_11,gpt-5-nano,up,72,"Momentum from product launches and platform upgrades persists; despite some technical/chipset caveats, overarching bullish theme remains."
+AMD,2024-07-16,2024-07-31,crowd_11,gpt-5-nano,up,68,"Longer-term catalysts (Zen 6 Morpheus/Morpheus family, AM5 longevity) point to sustained upside, though execution risk and competition exist."
+AMD,2024-07-16,2024-08-15,crowd_11,gpt-5-nano,up,65,"Zen 5 launch effects and AI/EPYC pipeline potential support a positive trajectory into the month, with possible pullbacks priced in but uptrend remains plausible."
+AMD,2024-07-16,2024-07-17,crowd_23,gpt-5-nano,up,65,"Positive near-term catalysts from AMD’s Zen 5/AM5 roadmap, extended AM5 support to 2027+, and upcoming Q2 results."
+AMD,2024-07-16,2024-07-19,crowd_23,gpt-5-nano,up,70,Continued optimism from long-term platform longevity and new CPU/GPU roadmap details; fewer negative signals in the news set.
+AMD,2024-07-16,2024-07-23,crowd_23,gpt-5-nano,up,60,"Possible pre-earnings rally on confirmed roadmap progress, though earnings risk could cap gains."
+AMD,2024-07-16,2024-07-31,crowd_23,gpt-5-nano,up,68,Momentum from Zen 5 Granite Ridge and Ryzen AI 300 series; near-term demand catalysts ahead of earnings.
+AMD,2024-07-16,2024-08-15,crowd_23,gpt-5-nano,up,55,"Earnings outcome may cause volatility, but the overarching roadmap and AM5 ecosystem support a constructive longer-term bias."
+AMD,2024-07-16,2024-07-17,crowd_21,gpt-5-nano,up,70,"Near-term catalysts from AMD: Zen 5 Granite Ridge/AM5 longevity to 2027, Ryzen AI Strix Point and OmniBook Ultra, plus an upcoming Q2 earnings release; overall positive sentiment."
+AMD,2024-07-16,2024-07-19,crowd_21,gpt-5-nano,up,75,Continued bullish momentum from roadmap progress (Zen 5/Zen 6 hints) and AI integration; multiple positive product and strategic signals amid earnings period.
+AMD,2024-07-16,2024-07-23,crowd_21,gpt-5-nano,up,78,"Stronger long-term catalysts accumulating (AM5 support through 2027+, Zen 6/Morpheus development, enterprise AI initiatives) supporting a constructive drift."
+AMD,2024-07-16,2024-07-31,crowd_21,gpt-5-nano,up,80,"Solid multi-quarter growth drivers: sustained AM5 platform strength, ongoing Zen architecture roadmap (Zen 6/7), and AI-focused product lineup; fundamentals look favorable."
+AMD,2024-07-16,2024-08-15,crowd_21,gpt-5-nano,up,85,"Longer horizon optimism from AMD's diversified AI/CPU/GPU strategies, expanded ecosystem support, and sustained leadership in efficiency and roadmap commitments."
+AMD,2024-07-16,2024-07-17,crowd_24,gpt-5-nano,up,65,Near-term catalysts from AMD Zen 5/AM5 roadmap and upcoming Q2 results; positive sentiment but macro cautions keep it moderate.
+AMD,2024-07-16,2024-07-19,crowd_24,gpt-5-nano,up,70,Ongoing bullish coverage of Ryzen 9000/Zen 5 and AM5 longevity; earnings risk exists but catalysts remain supportive.
+AMD,2024-07-16,2024-07-23,crowd_24,gpt-5-nano,up,60,"Sustained product-cycle optimism (Zen 5/Strix Point, AM5) with potential earnings/VF risk and competitive pressure."
+AMD,2024-07-16,2024-07-31,crowd_24,gpt-5-nano,up,75,Zen 5 launch window and strong roadmap likely spark upside; catalysts align with timing.
+AMD,2024-07-16,2024-08-15,crowd_24,gpt-5-nano,up,65,"Longer horizon upside from AI integration and platform longevity, though market could normalize after initial launch excitement."
+AMD,2024-07-16,2024-07-17,crowd_22,gpt-5-nano,up,60,Positive sentiment from AMD's continued roadmap news (Zen 5/AM5 longevity) and upcoming Q2 results; modest near-term catalysts align with a cautious investor's upbeat outlook.
+AMD,2024-07-16,2024-07-19,crowd_22,gpt-5-nano,up,65,Ongoing coverage of Ryzen 9000/Zen 5 launches and AM5 ecosystem expansion reinforces bullish long-term narrative; short-term drift remains favorable for a patient investor.
+AMD,2024-07-16,2024-07-23,crowd_22,gpt-5-nano,up,70,"Further momentum from near-term product announcements and anticipated earnings context supports continued upside; aligns with a measured, long-horizon view."
+AMD,2024-07-16,2024-07-31,crowd_22,gpt-5-nano,up,75,"Zen 5/9000 launch window and strong efficiency/performance signals provide a concrete catalyst, likely pushing a positive response as the market absorbs the news."
+AMD,2024-07-16,2024-08-15,crowd_22,gpt-5-nano,up,70,"Sustained catalysts from earnings follow-through and roadmap clarity; though market noise exists, the multi-quarter AMD story remains supportive for a longer horizon."
+AMD,2024-07-16,2024-07-17,crowd_25,gpt-5-nano,up,60,Positive coverage of AMD's Zen 5/AM5 roadmap and efficiency gains suggests a near-term bullish bias.
+AMD,2024-07-16,2024-07-19,crowd_25,gpt-5-nano,up,65,"Continued favorable sentiment around Ryzen 9000/Zen 5, AM5 longevity, and upcoming launches supports additional short-term upside."
+AMD,2024-07-16,2024-07-23,crowd_25,gpt-5-nano,up,70,Ongoing article momentum on Zen 5/Zen 6 plans and AM5 ecosystem expansion reinforces positive trajectory ahead of catalysts.
+AMD,2024-07-16,2024-07-31,crowd_25,gpt-5-nano,up,75,"Zen 5 launch window approaching (end of July) likely to drive upside on strong product momentum, barring unforeseen delays."
+AMD,2024-07-16,2024-08-15,crowd_25,gpt-5-nano,up,70,"Earnings event (Q2 2024) and sustained roadmap optimism could sustain gains, though earnings-driven volatility is possible."
+AMD,2024-07-16,2024-07-17,crowd_average,crowd_models,up,67.2,"Aggregated decision from 25 crowd models (up_sum=1681, down_sum=0)"
+AMD,2024-07-16,2024-07-19,crowd_average,crowd_models,up,71.1,"Aggregated decision from 25 crowd models (up_sum=1777, down_sum=0)"
+AMD,2024-07-16,2024-07-23,crowd_average,crowd_models,up,71.7,"Aggregated decision from 25 crowd models (up_sum=1793, down_sum=0)"
+AMD,2024-07-16,2024-07-31,crowd_average,crowd_models,up,73.6,"Aggregated decision from 25 crowd models (up_sum=1840, down_sum=0)"
+AMD,2024-07-16,2024-08-15,crowd_average,crowd_models,up,70.6,"Aggregated decision from 25 crowd models (up_sum=1765, down_sum=0)"
+AMD,2024-10-29,2024-10-30,expert,gpt-5,down,90,"Post-earnings selloff after in-line EPS, slight guidance miss; shares already -7% to -9% AH/PM"
+AMD,2024-10-29,2024-11-01,expert,gpt-5,down,65,Negative post-earnings drift likely as guidance failed to impress and key support broke per technicals
+AMD,2024-10-29,2024-11-05,expert,gpt-5,up,55,Dip-buying on strong AI narrative; data center revenue +122% YoY and Instinct GPU sales raised to $5B provide support
+AMD,2024-10-29,2024-11-13,expert,gpt-5,up,60,"Catalysts: MI325X production shipments starting, Ryzen 9000X3D launch buzz; sentiment stabilizes after initial drop"
+AMD,2024-10-29,2024-11-28,expert,gpt-5,up,65,"AI demand from hyperscalers (MSFT, Meta) and OpenAI adoption offsets gaming weakness; medium-term trend favors data center growth"
+AMD,2024-10-29,2024-10-30,crowd_9,gpt-5-nano,down,70,Post-earnings selloff as Q4 guidance disappointed despite strong data-center demand; near-term negative momentum.
+AMD,2024-10-29,2024-11-01,crowd_9,gpt-5-nano,down,60,Mixed news flow continues to weigh on stock in the short term; AI tailwinds persist but immediate reaction remains negative.
+AMD,2024-10-29,2024-11-05,crowd_9,gpt-5-nano,down,55,"Near-term uncertainty persists with competing forces ( Instinct momentum vs. soft guidance ), potential for a slow drift lower."
+AMD,2024-10-29,2024-11-13,crowd_9,gpt-5-nano,up,40,Anticipated AI infrastructure demand and upcoming RDNA4/early-2025 launches could begin to lift sentiment and provide a rebound cue.
+AMD,2024-10-29,2024-11-28,crowd_9,gpt-5-nano,up,60,"Longer-term catalysts from data-center growth, AI adoption, and next-gen GPUs may drive upside despite near-term volatility."
+AMD,2024-10-29,2024-10-30,crowd_7,gpt-5-nano,down,70,"Post-earnings results highlighted by the dataset show mixed performance with light Q4 guidance and notable after-hours decline, signaling near-term weakness despite data-center strength."
+AMD,2024-10-29,2024-11-01,crowd_7,gpt-5-nano,down,60,"Early sentiment remains negative after disappointing guidance, though AI/data-center catalysts may cushion downside in the short term."
+AMD,2024-10-29,2024-11-05,crowd_7,gpt-5-nano,up,65,"Catalysts such as Instinct GPU momentum, strong data-center demand, and confirmed RDNA4 roadmap could start to turn sentiment positive within a week."
+AMD,2024-10-29,2024-11-13,crowd_7,gpt-5-nano,up,70,"Sustained AI infrastructure demand and progress in data-center products provide a constructive backdrop, with longer-lead roadmap signals reinforcing upside potential."
+AMD,2024-10-29,2024-11-28,crowd_7,gpt-5-nano,up,75,"Longer horizon catalysts (RDNA4 launch, CES 2025 reveals, and AI-focused product stack) suggest a higher probability of an uptrend as fundamentals and catalysts align."
+AMD,2024-10-29,2024-10-30,crowd_1,gpt-5-nano,down,75,Q3 results beat on revenue but guiding for Q4 was light; after-hours drop suggests short-term negative sentiment despite AI/data-center strength.
+AMD,2024-10-29,2024-11-01,crowd_1,gpt-5-nano,down,65,Continued reaction to soft guidance and ongoing AI competition concerns; near-term pullback may persist before any rebound.
+AMD,2024-10-29,2024-11-05,crowd_1,gpt-5-nano,up,60,Possible short-term stabilization as investors price in ongoing data-center AI demand and upcoming RDNA 4/AI roadmap catalysts.
+AMD,2024-10-29,2024-11-13,crowd_1,gpt-5-nano,up,65,Strength in data-center revenue trend and AI investments could support a mid-term recovery; RDNA 4 launches offer future upside.
+AMD,2024-10-29,2024-11-28,crowd_1,gpt-5-nano,up,70,"Longer-term AI infrastructure growth, expanding AMD ecosystem, and anticipated GPU generation momentum provide upside potential despite near-term softness."
+AMD,2024-10-29,2024-10-30,crowd_2,gpt-5-nano,down,70,After-hours drop following mixed Q3 results and guidance that fell short of expectations despite a revenue beat.
+AMD,2024-10-29,2024-11-01,crowd_2,gpt-5-nano,down,65,"Sentiment remains negative from guidance, even as data-center momentum and AI demand support a longer-term upside."
+AMD,2024-10-29,2024-11-05,crowd_2,gpt-5-nano,up,55,"Underlying fundamentals look durable (data-center growth, Instinct momentum) and catalysts like RDNA4 timing plus AI adoption could start lifting the stock modestly."
+AMD,2024-10-29,2024-11-13,crowd_2,gpt-5-nano,up,60,"AI infrastructure demand and potential further guidance upgrades, plus strategic moves (e.g., ZT Systems) could translate into higher expectations and a rebound."
+AMD,2024-10-29,2024-11-28,crowd_2,gpt-5-nano,up,65,Longer-term AI/data-center strength and product-cycle catalysts (RDNA4/next-gen GPUs) likely to support a positive trajectory beyond near-term volatility.
+AMD,2024-10-29,2024-10-30,crowd_3,gpt-5-nano,down,80,"AMD posted Q3 results with revenue beat but guided for lower Q4, triggering a near-term stock drop despite strong AI data-center demand."
+AMD,2024-10-29,2024-11-01,crowd_3,gpt-5-nano,down,65,Continued weakness from conservative guidance; data-center momentum remains a positive but not enough to reverse the near-term downtrend.
+AMD,2024-10-29,2024-11-05,crowd_3,gpt-5-nano,down,50,First week post-earnings may see volatility; catalysts are building but near-term sentiment could remain tepid.
+AMD,2024-10-29,2024-11-13,crowd_3,gpt-5-nano,up,60,AI demand trajectory and RDNA 4/early-2025 GPU roadmap provide upside potential; catalysts (CES 2025) could lift sentiment.
+AMD,2024-10-29,2024-11-28,crowd_3,gpt-5-nano,up,65,"Ongoing data-center AI growth, plus anticipated RDNA 4 launches and AI ecosystem momentum support a positive longer-term trend."
+AMD,2024-10-29,2024-10-30,crowd_4,gpt-5-nano,down,70,After-hours drop following mixed Q3 results and light Q4 guidance; Instinct forecast upgrade provides some optimism but overall sentiment remains negative.
+AMD,2024-10-29,2024-11-01,crowd_4,gpt-5-nano,down,65,Continued near-term weakness as investors digest tepid guidance despite record data-center revenue and AI momentum.
+AMD,2024-10-29,2024-11-05,crowd_4,gpt-5-nano,down,55,Early stabilization not yet evident; mixed signals and broader market softness could keep the stock under pressure.
+AMD,2024-10-29,2024-11-13,crowd_4,gpt-5-nano,up,50,"Longer-term catalysts emerge (RDNA4 launch early 2025, AI compute demand, OpenAI collaboration) that could shift sentiment higher."
+AMD,2024-10-29,2024-11-28,crowd_4,gpt-5-nano,up,60,AI/data-center tailwinds and upcoming product cycles may drive a sustained rally if results validate guidance and strategic bets.
+AMD,2024-10-29,2024-10-30,crowd_10,gpt-5-nano,down,78,Post-earnings results with light Q4 guidance led to after-hours selloff; AI/data center momentum exists but near-term weakness dominates.
+AMD,2024-10-29,2024-11-01,crowd_10,gpt-5-nano,up,60,Continued concern over guidance and mixed sentiment; data-center strength may cushion but reversal isn’t immediate.
+AMD,2024-10-29,2024-11-05,crowd_10,gpt-5-nano,up,55,Oversold conditions and ongoing AI demand could trigger a relief bounce as investors reassess longer-term catalysts.
+AMD,2024-10-29,2024-11-13,crowd_10,gpt-5-nano,up,62,AI infrastructure momentum and RDNA4/Instinct roadmap provide longer-term catalysts; earnings cycles may start to normalize.
+AMD,2024-10-29,2024-11-28,crowd_10,gpt-5-nano,up,70,Sustained AI demand and AMD’s roadmap suggest higher upside from multiple product launches and data-center growth.
+AMD,2024-10-29,2024-10-30,crowd_6,gpt-5-nano,down,75,After-hours drop on Q3 beat but weak Q4 guidance; mixed signals.
+AMD,2024-10-29,2024-11-01,crowd_6,gpt-5-nano,down,70,Guidance modestly below expectations; AI data-center strength may not fully offset gaming/embedded softness.
+AMD,2024-10-29,2024-11-05,crowd_6,gpt-5-nano,up,60,Upcoming RDNA4/ Ryzen 9800X3D releases and AI demand could provide near-term catalysts.
+AMD,2024-10-29,2024-11-13,crowd_6,gpt-5-nano,up,65,Sustained data-center demand and Instinct momentum may drive a relief rally as investors refresh leading indicators.
+AMD,2024-10-29,2024-11-28,crowd_6,gpt-5-nano,up,70,"Longer-term AI infrastructure growth and a clear AMD roadmap (RDNA4, 9000X3D) could support a bullish shift."
+AMD,2024-10-29,2024-10-30,crowd_5,gpt-5-nano,down,72,Post-earnings reaction was negative despite strong data-center momentum and Instinct upgrade; light Q4 guidance sparked initial sell-off.
+AMD,2024-10-29,2024-11-01,crowd_5,gpt-5-nano,down,60,"Near-term sentiment remains cautious as guidance undershot expectations, even though AI/data-center demand remains solid."
+AMD,2024-10-29,2024-11-05,crowd_5,gpt-5-nano,down,55,"Volatility persists; fundamentals still supportive long-term (AI demand, RDNA4 roadmap), but immediate price pressure uncertain to reverse quickly."
+AMD,2024-10-29,2024-11-13,crowd_5,gpt-5-nano,up,65,Sustained data-center AI demand and upcoming product cycles (RDNA4/AI features) provide positive longer-term catalysts.
+AMD,2024-10-29,2024-11-28,crowd_5,gpt-5-nano,up,70,AI chip cycle and diversified product lineup support upside potential; strong data-center momentum could drive a multi-quarter recovery as catalysts mature.
+AMD,2024-10-29,2024-10-30,crowd_8,gpt-5-nano,down,80,AMD delivered mixed Q3 results with light Q4 guidance and a post-earnings selloff; near-term price pressure outweighs the ongoing data-center AI momentum.
+AMD,2024-10-29,2024-11-01,crowd_8,gpt-5-nano,down,70,"Continued reaction to cautious guidance and investor caution, despite strong data-center revenue growth and AI demand."
+AMD,2024-10-29,2024-11-05,crowd_8,gpt-5-nano,up,60,AI/data-center momentum persists and upcoming RDNA4/AI roadmap could catalyze a relief rally as investors reassess longer-term value.
+AMD,2024-10-29,2024-11-13,crowd_8,gpt-5-nano,up,65,"Sustained demand for AMD’s data-center GPUs and CPUs, plus catalysts from future product launches support an upward tilt over the mid term."
+AMD,2024-10-29,2024-11-28,crowd_8,gpt-5-nano,up,70,"Longer-term AI infrastructure growth and roadmap milestones (RDNA 4, Instinct/EPYC momentum) suggest a constructive trajectory, despite near-term volatility."
+AMD,2024-10-29,2024-10-30,crowd_11,gpt-5-nano,down,70,After-hours sell-off on Q3 results with light Q4 guidance despite data-center strength and Instinct forecast upgrade.
+AMD,2024-10-29,2024-11-01,crowd_11,gpt-5-nano,down,60,"Short-term headwinds from cautious guidance, though AI/data-center momentum offers some downside protection."
+AMD,2024-10-29,2024-11-05,crowd_11,gpt-5-nano,up,60,AI demand tailwinds and Instinct upgrade potential to lift sentiment in the near term.
+AMD,2024-10-29,2024-11-13,crowd_11,gpt-5-nano,up,65,Sustained data-center/AI momentum and RDNA4 GPU roadmap provide catalysts over the next couple of weeks.
+AMD,2024-10-29,2024-11-28,crowd_11,gpt-5-nano,up,70,Longer-run AI infrastructure demand and improving GPU roadmap support a bullish tilt.
+AMD,2024-10-29,2024-10-30,crowd_18,gpt-5-nano,down,78,Post-earnings miss on Q4 guidance; after-hours selloff despite strong data-center AI demand.
+AMD,2024-10-29,2024-11-01,crowd_18,gpt-5-nano,down,70,Continued caution around guidance and investor disappointment persists.
+AMD,2024-10-29,2024-11-05,crowd_18,gpt-5-nano,down,65,Near-term headwinds from guidance and volatility; potential dip-buyers may re-emerge.
+AMD,2024-10-29,2024-11-13,crowd_18,gpt-5-nano,down,60,Short- to mid-term softness unlikely to reverse quickly; long-term AI/Data Center tailwinds exist.
+AMD,2024-10-29,2024-11-28,crowd_18,gpt-5-nano,up,60,"Roadmap catalysts (RDNA 4 launch early 2025, AI data-center demand) could drive upside as new products roll out."
+AMD,2024-10-29,2024-10-30,crowd_12,gpt-5-nano,down,75,After-hours drop following mixed Q3 results and light Q4 guidance despite record data-center revenue; near-term weakness dominates despite AI/data-center catalysts.
+AMD,2024-10-29,2024-11-01,crowd_12,gpt-5-nano,down,60,"Persistent cautious tone from guidance and mixed signals from earnings keep a downside bias in the short term, even with AI momentum."
+AMD,2024-10-29,2024-11-05,crowd_12,gpt-5-nano,up,65,"AI demand strength and record data-center revenue, plus roadmap catalysts (Instinct/MI325X, OpenAI collaboration, ZT Systems interest) offer upside potential."
+AMD,2024-10-29,2024-11-13,crowd_12,gpt-5-nano,up,70,"Sustained AI infrastructure growth and upcoming product launches (RDNA 4, CES 2025 lineups) could shift sentiment brighter as investors price in longer-term catalysts."
+AMD,2024-10-29,2024-11-28,crowd_12,gpt-5-nano,up,70,"Longer-term AI/data-center tailwinds and multi-quarter product cycles support a positive trajectory, with ongoing partnerships and new GPUs/CPUs on the horizon."
+AMD,2024-10-29,2024-10-30,crowd_14,gpt-5-nano,down,85,"AMD posted mixed Q3 with light Q4 guidance and post-earnings selloff; despite data center strength, near-term sentiment was negative."
+AMD,2024-10-29,2024-11-01,crowd_14,gpt-5-nano,down,65,"Strength in data center/AI demand is clear, but weak guidance and gaming softness keep upside limited in the immediate window."
+AMD,2024-10-29,2024-11-05,crowd_14,gpt-5-nano,down,55,"Near-term downside risk persists due to competition and cautious guidance, though longer-term AI/data-center momentum remains a potential cushion."
+AMD,2024-10-29,2024-11-13,crowd_14,gpt-5-nano,up,50,"Longer-term catalysts emerge (RDNA4 launch plans for early 2025, continued AI/data center expansion) that could help stabilize or push AMD higher."
+AMD,2024-10-29,2024-11-28,crowd_14,gpt-5-nano,up,60,"RDNA4/RX 8000 roadmap and sustained AI semiconductor demand offer a plausible upside path, despite ongoing macro/competitive risks."
+AMD,2024-10-29,2024-10-30,crowd_15,gpt-5-nano,down,72,After-hours and near-term sentiment remained negative due to guidance shortfall despite data-center strength and AI demand.
+AMD,2024-10-29,2024-11-01,crowd_15,gpt-5-nano,down,65,"Continued bearish tone from earnings around guidance, even though AI-related data-center demand provides a cushion."
+AMD,2024-10-29,2024-11-05,crowd_15,gpt-5-nano,down,60,Short-term horizon likely to test support levels as traders weigh mixed signals; momentum remains pressured by weaker guidance.
+AMD,2024-10-29,2024-11-13,crowd_15,gpt-5-nano,up,55,Medium-term tailwinds from AI data-center growth and upcoming RDNA4/GPU launches could begin to lift sentiment and pricing.
+AMD,2024-10-29,2024-11-28,crowd_15,gpt-5-nano,up,70,Longer-term AI infrastructure demand and AMD's expanding AI hardware ecosystem may drive a constructive trend as quarterly results validate the growth trajectory.
+AMD,2024-10-29,2024-10-30,crowd_16,gpt-5-nano,down,70,Immediate after-hours selloff on softer Q4 guidance despite strong data-center demand.
+AMD,2024-10-29,2024-11-01,crowd_16,gpt-5-nano,down,60,Persistent negative sentiment from earnings miss and light guidance amid AI-chip demand optimism.
+AMD,2024-10-29,2024-11-05,crowd_16,gpt-5-nano,up,55,"Catalysts accumulating (RDNA4 launch in early 2025, strong data-center AI demand) could curb losses and support a rebound."
+AMD,2024-10-29,2024-11-13,crowd_16,gpt-5-nano,up,60,Sustained AI-driven growth in data center and upcoming GPU/CPU product milestones offer upside potential.
+AMD,2024-10-29,2024-11-28,crowd_16,gpt-5-nano,up,65,"Longer-horizon catalysts (RDNA4, RX 8000 mid-range focus,OpenAI ecosystem momentum) may drive higher sentiment and prices."
+AMD,2024-10-29,2024-10-30,crowd_20,gpt-5-nano,down,70,AMD posted strong AI data-center demand but guided quarters weaker than expectations; after-hours selloff suggests near-term pressure.
+AMD,2024-10-29,2024-11-01,crowd_20,gpt-5-nano,up,60,"Longer-term AI demand and data-center growth remain intact; positive catalysts (Instinct momentum, upcoming RDNA4) could trigger a relief bounce."
+AMD,2024-10-29,2024-11-05,crowd_20,gpt-5-nano,up,65,"Continued AI infrastructure spending supports AMD's growth, with RDNA4 roadmap and OpenAI/Azure momentum adding to bullish sentiment."
+AMD,2024-10-29,2024-11-13,crowd_20,gpt-5-nano,up,75,"Catalysts ahead (RDNA 4 launch in 2025, CES 2025 reveals, AI adoption by major partners) likely to sustain an upward drift."
+AMD,2024-10-29,2024-11-28,crowd_20,gpt-5-nano,up,80,Sustained AI-driven demand and roadmap milestones point to a constructive longer-term trend for AMD stock.
+AMD,2024-10-29,2024-10-30,crowd_19,gpt-5-nano,down,70,After-hours earnings miss with light Q4 guidance despite AI demand momentum
+AMD,2024-10-29,2024-11-01,crowd_19,gpt-5-nano,down,60,Sustained selling pressure from disappointing guidance; limited immediate positive catalysts
+AMD,2024-10-29,2024-11-05,crowd_19,gpt-5-nano,down,45,Near-term negative sentiment persists; potential for a small bounce but not yet decisive
+AMD,2024-10-29,2024-11-13,crowd_19,gpt-5-nano,up,55,AI data-center momentum and Instinct demand could begin to lift sentiment and stabilize price
+AMD,2024-10-29,2024-11-28,crowd_19,gpt-5-nano,up,60,Catalysts like RDNA4/ RX8000 roadmap and ongoing AI-driven growth may drive a sustained uptrend
+AMD,2024-10-29,2024-10-30,crowd_13,gpt-5-nano,down,65,Mixed Q3 results with upside from Instinct/data-center demand but weak Q4 guidance and after-hours price drop suggest near-term downside.
+AMD,2024-10-29,2024-11-01,crowd_13,gpt-5-nano,down,50,"Guidance softness may linger, though AI momentum and Instinct upgrades offer some support to limit losses."
+AMD,2024-10-29,2024-11-05,crowd_13,gpt-5-nano,up,55,AI data-center demand and positive cadence around Instinct GPUs plus RDNA4 catalysts could start to offset initial sell-off.
+AMD,2024-10-29,2024-11-13,crowd_13,gpt-5-nano,up,60,"Sustained AI market growth, cloud adoption, and upcoming GPU/CPU roadmaps point to continued upside into 2025."
+AMD,2024-10-29,2024-11-28,crowd_13,gpt-5-nano,up,70,"Longer-term upside from RDNA4 launch momentum, multiple product lineups at CES 2025, and expanding AI infrastructure demand support a positive trend."
+AMD,2024-10-29,2024-10-30,crowd_17,gpt-5-nano,down,75,"AMD posted a Q3 beat but provided light Q4 guidance and saw after-hours decline (reported >7% drop). Positive Instinct GPU forecast upgrade helps, but near-term sentiment remains negative."
+AMD,2024-10-29,2024-11-01,crowd_17,gpt-5-nano,down,65,Continued reaction to conservative guidance despite strong data-center momentum (data center revenue up 122% YoY). Gaming/embedded softness still weighing on sentiment.
+AMD,2024-10-29,2024-11-05,crowd_17,gpt-5-nano,down,55,"Near-term pressure persists from mixed results, though AI/data-center tailwinds and RDNA4 timing could provide a floor; overall risk-off mood remains."
+AMD,2024-10-29,2024-11-13,crowd_17,gpt-5-nano,up,60,Sustained AI demand in data centers and roadmap clarity (RDNA4/AI features) suggest a potential improvement in revenue trajectory in the next couple of quarters.
+AMD,2024-10-29,2024-11-28,crowd_17,gpt-5-nano,up,70,"Longer-term catalysts remain intact: RDNA4 GPUs, CES 2025 lineups, and continued AI-driven data-center growth could attract buyers and support a multi-quarter re-rating."
+AMD,2024-10-29,2024-10-30,crowd_25,gpt-5-nano,down,72,After-hours reaction to Q3 results with light Q4 guidance despite record data-center revenue.
+AMD,2024-10-29,2024-11-01,crowd_25,gpt-5-nano,down,60,Persistence of negative sentiment from guided outlook; near-term catalysts not yet priced in.
+AMD,2024-10-29,2024-11-05,crowd_25,gpt-5-nano,up,58,"Catalysts emerge: Instinct GPU forecast upgrade, strong data-center demand, and upcoming RDNA4/AI features signaling upside."
+AMD,2024-10-29,2024-11-13,crowd_25,gpt-5-nano,up,65,"Sustained data-center growth and AI demand, plus near-term product roadmap (RDNA4) and OpenAI collaboration expectations."
+AMD,2024-10-29,2024-11-28,crowd_25,gpt-5-nano,up,75,"Longer-term AI hardware demand and broad ecosystem momentum (OpenAI/AMD, cloud deployments, CES/2025 launches) support sustained upside."
+AMD,2024-10-29,2024-10-30,crowd_24,gpt-5-nano,down,70,AMD earnings beat but Q4 guidance light; after-hours drop indicates near-term price pressure.
+AMD,2024-10-29,2024-11-01,crowd_24,gpt-5-nano,down,60,Continued negative reaction to guidance; short-term momentum uncertain.
+AMD,2024-10-29,2024-11-05,crowd_24,gpt-5-nano,up,60,Instinct data center momentum and AI demand could catalyze a rebound; RDNA4 roadmap adds catalysts.
+AMD,2024-10-29,2024-11-13,crowd_24,gpt-5-nano,up,72,Sustained AI tailwinds support data-center and Ryzen businesses; RDNA4/early-2025 launches provide upside.
+AMD,2024-10-29,2024-11-28,crowd_24,gpt-5-nano,up,78,"Longer-term AI hardware demand and multiple product launches (RDNA4, CES 2025) suggest upside; Nvidia competition remains a risk."
+AMD,2024-10-29,2024-10-30,crowd_22,gpt-5-nano,down,75,Post-earnings sell-off amid light Q4 guidance despite AI demand strength.
+AMD,2024-10-29,2024-11-01,crowd_22,gpt-5-nano,down,70,Ongoing negative sentiment from earnings and slower near-term visibility.
+AMD,2024-10-29,2024-11-05,crowd_22,gpt-5-nano,down,65,Continued selling pressure; potential test of support levels before any rebound.
+AMD,2024-10-29,2024-11-13,crowd_22,gpt-5-nano,up,55,Longer-term AI/data-center momentum and RDNA4 roadmap could attract buyers as outlook clarifies.
+AMD,2024-10-29,2024-11-28,crowd_22,gpt-5-nano,up,60,Catalysts like RDNA4 launch and OpenAI/cloud AI demand could lift shares over a longer horizon.
+AMD,2024-10-29,2024-10-30,crowd_23,gpt-5-nano,down,80,"Post-earnings rally fizzled; Q4 guidance was light despite record data-center revenue and Instinct upgrades, leading to near-term selling pressure."
+AMD,2024-10-29,2024-11-01,crowd_23,gpt-5-nano,down,75,"Continued negative sentiment from muted guidance, even as data-center strength remains a positive longer-term driver."
+AMD,2024-10-29,2024-11-05,crowd_23,gpt-5-nano,down,65,Lack of immediate catalysts; stock may stay under pressure until a clearer path to improved guidance or new AI hardware momentum emerges.
+AMD,2024-10-29,2024-11-13,crowd_23,gpt-5-nano,up,60,"Catalysts listed in the news cycle (RDNA 4 potential launch in early 2025, CES 2025 plans) could begin to shift sentiment as AI data-center demand sustains growth."
+AMD,2024-10-29,2024-11-28,crowd_23,gpt-5-nano,up,70,"Longer-term AI infrastructure demand and AMD's data-center leadership potential, plus OpenAI-related AI initiatives, may lift sentiment despite Nvidia competition."
+AMD,2024-10-29,2024-10-30,crowd_21,gpt-5-nano,down,75,AMD posted mixed Q3 with light Q4 guidance despite strong data-center/AI demand; after-hours selloff suggests near-term downside pressure.
+AMD,2024-10-29,2024-11-01,crowd_21,gpt-5-nano,down,60,"Sentiment remains cautious due to guidance miss, even though data-center gains and AI momentum provide some support."
+AMD,2024-10-29,2024-11-05,crowd_21,gpt-5-nano,up,55,"Potential rebound as investors focus on long-term catalysts (RDNA 4 launch in early 2025, AI expansion) and oversold conditions ease."
+AMD,2024-10-29,2024-11-13,crowd_21,gpt-5-nano,up,70,AI demand tailwinds and Instinct GPU forecast upgrade underpin revenue growth; upcoming RDNA 4/RTX competition dynamics could benefit AMD.
+AMD,2024-10-29,2024-11-28,crowd_21,gpt-5-nano,up,75,"Sustained AI infrastructure demand and upcoming product ramps (RDNA 4, Ryzen 9000X3D lineup) support a constructive longer-term move."
+AMD,2024-10-29,2024-10-30,crowd_average,crowd_models,down,73.7,"Aggregated decision from 25 crowd models (up_sum=0, down_sum=1842)"
+AMD,2024-10-29,2024-11-01,crowd_average,crowd_models,down,63.2,"Aggregated decision from 25 crowd models (up_sum=120, down_sum=1460)"
+AMD,2024-10-29,2024-11-05,crowd_average,crowd_models,up,58.1,"Aggregated decision from 25 crowd models (up_sum=828, down_sum=625)"
+AMD,2024-10-29,2024-11-13,crowd_average,crowd_models,up,61.4,"Aggregated decision from 25 crowd models (up_sum=1474, down_sum=60)"
+AMD,2024-10-29,2024-11-28,crowd_average,crowd_models,up,68.3,"Aggregated decision from 25 crowd models (up_sum=1708, down_sum=0)"
