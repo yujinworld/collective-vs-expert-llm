@@ -1,9 +1,0 @@
-test,statistic,p_value,significant
-T-test (Expert vs Crowd) 수익률,-2.65242628621054,0.008094019951357155,True
-U-test (Expert vs Crowd) 수익률,176441.5,0.01244468901624532,True
-Levene test (분산) 수익률,4.820368708575168,0.02831037733472699,True
-T-test (Expert vs Baseline) 수익률,-0.6405934761449755,0.5219054028004838,False
-T-test (Crowd vs Baseline) 수익률,2.009561329116202,0.04469471867461428,True
-Chi2-test (Expert vs Crowd) 승률,6.823690476190476,0.008995648942251681,True
-T-test (Expert vs Crowd) Confidence,-43.987971634706135,3.875608902008962e-233,True
-U-test (Expert vs Crowd) Confidence,29588.0,7.042516606881124e-149,True
