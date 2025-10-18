@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment
+.env
+.env.*
+
+# Poetry
+poetry.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Backup files
+*.bak
+*.py.bak
+
+# Logs
+*.log
+
+# Data files (large files - keep structure but ignore data)
+data/articles/csv/*.csv
+data/articles/json/*.json
+data/articles/json/*.jsonl
+data/answer/*.csv
+!data/answer/.gitkeep
+
+# Checkpoints
+checkpoint_*.json
+
+# Results (keep only latest)
+prediction_results_*.csv
+prediction_failures_*.csv
+rest/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation (allow specific ones)
+*.md
+!README.md
+!CLAUDE.md
+!yujin/README.md
+!yujin/I_stats_test_explanation.md
